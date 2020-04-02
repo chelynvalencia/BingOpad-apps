@@ -1,0 +1,1314 @@
+<resources>
+    <string name="app_name">BingOpad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_romance">RomanceActivity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+
+    <string name="romance_satu_1">
+        Seperti biasanya, di hari Valentine selalu diwarnai dengan bunga mawar dan cokelat.
+        Kali ini seorang pria datang terburu-buru di tengah hujan demi kekasihnya tercinta.
+    </string>
+    <string name="romance_satu_2">
+        Tahu bahwa ia terlambat dan hujan keburu turun, iapun meminta maaf pada kekasihnya yang terlihat cemberut.
+        Hari itu mereka berencana makan malam berdua, persis seperti yang diinginkan si wanita di film-film yang ditontonnya.
+    </string>
+    <string name="romance_satu_3">
+        Wanita itu lupa, bahwa romantisme bukan sekedar meniru adegan di film saja, yang terkadang justru tidak nyata.
+        Ia juga lupa, bahwa sebenarnya romantis itu datang dari berbagai cara, seperti yang dibawa oleh kekasihnya.
+    </string>
+    <string name="romance_satu_4">
+        "Aku membawakanmu bunga ini," sodor si pria. Ia tetap membisu dan memasang wajah tak suka.
+    </string>
+    <string name="romance_satu_5">
+        Akhirnya ia menerima 12 tangkai mawar yang masih basah karena tersiram air hujan.
+        Iapun kaget, "kenapa ada satu mawar plastik di sini? kamu nggak rela ngasih aku bunga mawar?" kemarahannya memuncak lagi.
+    </string>
+    <string name="romance_satu_6">
+        Masih dengan sabar, si pria menjawabnya, "aku memang sengaja membawa 11 mawar segar dan setangkai mawar plastik.
+        Bagiku, aku akan mencintaimu hingga si mawar plastik itu mati...
+    </string>
+    <string name="romance_satu_7">
+        "Merasa bersalah karena ledakan kemarahannya,si wanita menangis berurai air mata dan memeluk kekasihnya.
+        "Maafkan aku, aku sudah berpikiran jelek padamu...
+    </string>
+    <string name="romance_satu_8">
+        "11 tangkai bunga mawar segar itu memang cantik seperti di film yang dilihatnya, tetapi setangkai mawar plastik yang dibawa kekasihnya itu melambangkan cinta yang abadi dan tak pernah mati.
+    </string>
+    <string name="romance_satu_9">
+        See, romantisme itu tak hanya harus dipandang dari satu hal yang pernah dilakukan di film-film saja.
+    </string>
+
+    <string name="romance_dua_1">
+        Ini adalah kisah cinta antara kakek Arun dan nenek Gemma.
+        Mendengar kisah cinta mereka, aku menyadari bahwa ternyata
+        cinta sejati itu memang ada. Dan ingin segera kulupakan sakit hatiku karena kisah cintaku sendiri.
+        Semoga cerita ini juga bisa menyembuhkan kekecewaan akan cintamu saat ini...
+    </string>
+    <string name="romance_dua_2">
+        Nenekku populer sebagai gadis yang tercantik di kotanya saat itu. Banyak pemuda yang menaruh hati pada nenek dan bersedia memberikan cintanya.
+        Mulai dari yang tampan hingga yang kaya berusaha menarik perhatian nenek, tetapi nenek tak pernah tertarik pada semua pemuda itu.
+    </string>
+    <string name="romance_dua_3">
+        Hingga suatu saat kakek bertemu nenek di sebuah pesta. Kakekku adalah pemuda yang biasa-biasa saja.
+        Tidak tampan, dan tidak kaya. Hari itu ia mengumpulkan semua keberanian dirinya untuk menyapa nenek.
+    Mengajaknya sekedar menikmati secangkir kopi di sebuah coffee shop di ujung kota. Entah mengapa nenek mengiyakan ajakannya.
+    Berharap segera keluar dari hiruk pikuk pesta.</string>
+    <string name="romance_dua_4">
+        Di sana mereka duduk berhadapan, dengan wajah cemas kakek berharap bisa berbincang banyak dengan nenek yang saat itu cuek dan tak terlihat tertarik sama sekali.
+        Kata nenek sih, ia menerima ajakan kakek karena telah merasa bosan dengan pesta tersebut.
+        Nenek menggunakan alasan kakek agar ia bisa pergi dan segera pulang.
+        Di tengah perbincangan yang membisu, kakek memanggil pelayan coffee shop tersebut.
+        "Pak, bolehkah aku meminta sedikit garam untuk dimasukkan pada kopi ini?" Semua orang yang ada di sekitar kakek dan nenek keheranan.
+        Untuk apa garam dimasukkan ke dalam secangkir kopi?
+    </string>
+    <string name="romance_dua_5">
+        Hal tersebut berhasil menarik perhatian nenek. "Untuk apa kau menaruh garam di dalam kopimu?" tanya nenek.
+        "Oh... ini hanya sebuah kebiasaan lama ayahku. Dulu aku tinggal di sebuah desa dekat pesisir pantai.
+        Di sana kami biasa menambah garam pada kopi agar tetap ingat pada laut, tempat tinggal kami.
+        Dan, hari ini aku rindu kampung halamanku. Aku juga rindu pada orang tuaku yang sudah meninggal.
+        Agar aku tak lupa akan mereka, aku terbiasa menaruh garam di dalam kopiku," tutur kakek.
+    </string>
+    <string name="romance_dua_6">Nenekpun merasa tersentuh. Tak pernah ditemui pemuda semanis kakek. Sejak saat itu, mereka selalu pergi berkencan dan bercerita panjang lebar. Merekapun akhirnya menikah. Hidup bahagia, hingga punya banyak anak dan cucu.
+        Suatu kali, di ulang tahun pernikahan ke-50, kakek akhirnya menghembuskan nafas terakhirnya. Di sebuah kotak berisi perhiasan kado ulang tahun pernikahan, ditinggalkannya secarik surat untuk nenek. Karena mata nenek sudah kurang awas untuk membaca, maka ia memintaku untuk membacanya. Kira-kira beginilah isi surat itu...</string>
+    <string name="romance_dua_7">Gemma yang terkasih,
+
+        Aku meminta maaf akan sebuah kesalahan yang sangat besar, yang pernah kulakukan sepanjang hidupku. Aku menyimpan sebuah kebohongan besar selama ini. Ingatkah saat aku mengajakmu ke coffee shop hari itu? Saat itu aku sangat gugup sekali. Saking gugupnya aku ingin meminta tambahan gula untuk kopiku. Namun, entah kenapa yang terucap adalah aku meminta garam.
+
+        Aku tak ingin terlihat konyol di depanmu. Dan akhirnya aku mengarang cerita itu. Aku tak tahu lagi harus bagaimana. Kau terlihat begitu cantik dan sempurna, hingga aku tak ingin melepaskanmu.</string>
+    <string name="romance_dua_8">
+        Tetapi, percayalah sayang... bahwa sepanjang hidupku aku sangat mencintaimu. Aku tak ingin kehilangan diriku. Sehingga sekalipun setiap pagi kau buatkan kopi asin itu, semua selalu terasa manis karenamu. Jujur saja, kau mungkin tak akan suka rasanya, karena sebenarnya rasanya sungguh tidak enak.
+        Gemma, aku hanya ingin kau tahu bahwa aku sangat mencintaimu.
+        Air mata nenekpun turun membasahi pipinya. Ia sadar betapa besarnya cinta kakek padanya. Sejak saat itupun ia selalu menambahkan garam di dalam kopinya. Setiap kali ada orang yang bertanya bagaimanakah rasa kopi bila ditambah garam, ia akan menjawabnya "rasanya manis sekali :)"
+    </string>
+
+    <string name="romance_tiga_1">
+        Kalau diingat lagi, berapa kali si dia mengatakan "Aku cinta kamu"? Satu kali? dua kali? atau dulu pernah mengatakan saat sedang menembak saja dan sekarang hampir tidak pernah?
+        Ladies, jika saat ini Anda meragukan cintanya karena ia tak pernah lagi mengucapkan tiga kata tersebut, ada sebuah hal yang perlu Anda tahu...
+    </string>
+    <string name="romance_tiga_2">
+        Suatu hari, sepasang kekasih yang bernama Arya dan Aryani sedang duduk di tepi danau.
+        Saling bergandengan tangan dan terdiam. Tak lama kemudian, pasangan Aryani membuka suara.
+    </string>
+    <string name="romance_tiga_3">
+        Aryani: Apakah kau benar mencintaiku?
+        Arya: Tentu saja, sayang.
+        Aryani: Aku ingin mendengar dari bibirmu sendiri. Bukan kau mengatakannya saat aku bertanya saja.
+        Arya: Ahhh... kukira aku tak harus sampai begitu.
+        Aryani: Lho, mengapa tidak?
+        Arya: Hmm... karena apa yah...
+        Aryani: Aku kan hanya ingin kau mengatakan kalau kau mencintai aku. Itu saja, kenapa sepertinya sulit sih?
+        Arya: Tapi aku tidak bisa
+    </string>
+    <string name="romance_tiga_4">
+        Aryanipun mulai menangis sesenggukan. Pikirannya kalut dan ia mulai yakin bahwa Arya tidak serius kepadanya.
+        Ia hanya bermain-main, dan ia tak pernah mencintainya.
+    </string>
+    <string name="romance_tiga_5">
+        Aryani: Kalau begitu kau tidak mencintaiku!
+        Masih terdiam dan memandangi air yang mengalir tenang. Aryani membiarkan air mata membasahi pipinya.
+        Aryani: Mengapa? Mengapa kau begitu tega terhadapku?
+        Arya: Jadi, apakah kau benar-benar ingin tahu?
+        Aryani: Tentu saja! (bentaknya)
+    </string>
+    <string name="romance_tiga_6">
+        Aryapun meraih bahu Aryani dan memeluk tubuh kecilnya itu dengan erat.
+        Mencium keningnya dengan perlahan dan berbisik di telinganya, "karena tiga kata itu tidak cukup untuk mengungkapkan betapa aku mencintaimu, sayang..."
+    </string>
+    <string name="romance_tiga_7">
+        Cinta. Tak pernah cukup diungkapkan lewat tiga kata "Aku cinta kamu".
+        Percayalah, cinta itu lebih dari sekedar itu...
+    </string>
+
+    <string name="romance_empat_1">
+        Namanya Hilman Aditya Natria, seseorang yang membuatku jatuh cinta.
+        Dia satu kelas denganku, Jani Rahmania Kiranti.
+        Setiap hari, dia selalu menghampiriku untuk sekedar curhat atau bercerita.
+        Setiap hari, dia selalu menghiburku, bercanda denganku, hingga pulang sekolah pun, aku ditemaninya. Mungkin, karena kebaikannya, aku jatuh… aku jatuh cinta dan takhluk adanya.
+        Dia membuat janntungku semakin berdegup kencang. membuatku semakin malu menatap wajahnya yang keren itu.
+    </string>
+    <string name="romance_empat_2">
+        Suatu hari, dia mengirimiku SMS, isinya sederhana, hanya menanyakan kabar dan apa yang sedang kulakukan.
+        Segera, aku langsung membalasnya sesuai dengan fakta yang ada, “Aq lgi nulis,nich. Kmu?…” begitulah balasan yang kuketik untuknya.
+        Lalu kutekan tombol “send” di layar hanphone-ku.
+        Akupun menunggu balasannya dengan harapan, dia membalasnya.
+        Jantungku berdetak kenceng sembari menunggu balasannya.
+        Setelah beberapa menit handphonekupun berdering…
+    </string>
+    <string name="romance_empat_3">
+        “Halo, Jani. Ini aku Hilman…” katanya membuka pembicaraan kami di telefon.
+“Eh, i..iya.” aku menjawab telfonnya dengan gugup.
+“Lagi nulis apa, nih??…”
+“Aku lagi nulis cerpen, sekalian belajar menulis…”
+“Oooohh..”
+“Oh iya, besok, ada tugas gak?..” Kini, giliran aku yang bertanya padanya. Aku tahu, dia adalah cowok yang paling rajin dikelas kami. Dia juga sering mendapatkan nilai sempurna pada ulangan Kimianya. Hal ini juga yang membuatku suka padanya.
+“Ada, yang disuruh membuat tabel tentang masalah sosial dan solusinya…”
+    </string>
+    <string name="romance_empat_4">
+        “Oh,iya,iya. Yang halaman 24 di buku cetak itu, kan??..”
+“Iya..”
+“Mmmm… ngomong-ngomong, kamu ini lagi ngapain??..”
+“Aku lagi memandangi bintang, nih. Coba deh, kamu keluar, bintangnya cantok, loh…” Akupun langsung menyikap gorden jendela kamarku. Benar, bintangnya indah sekali…
+“Iya, kamu bener.”
+“Mmmm.. jujur ya… sebernarnya… aku… aku..”
+“Aku apa?.”
+“Aku suka kamu, Jani.”
+    </string>
+    <string name="romance_empat_5">
+        “EH?!!!….Aku juga… suka kamu” Akupun terkaget mendengar perkataannya barusan. Dia membuatku semakin malu. Pipiku juga mulai memerah.
+“Iya, aku serius.”
+“Jadi…?”
+“Jadi apa???..”
+“Sekarang, kita pacaran?..”
+“Kalau kamu mau, ya sudah..”
+“Mmmm.. terserah kamu saja.”
+“Aku sih, mau… Beneran, ya??..” Katanya antusias. Semoga saja dia benar-benar serius.
+“Iya..” jawabku tersenyum.
+    </string>
+    <string name="romance_empat_6">
+        Esok harinya….
+Aku sudah sampai disekolah. Hari ini sungguh berbeda dengan hari-hari sebelumnya, jauh lebih indah dan berwarna karena kehadiran Hilman… Jantungku langsung berdebar memikirkannya.
+“Jani!!..” terdengar suara dibalik badanku. Sepertinya, suara itu tak jauh dari sini. Suara itu begitu akrab ditelingaku. Sepertinya, itu suara Hilman.
+“Hilman… Kamu baru sampai?.” Aku kaget begitu berbalik. Ternyata, memang Hilmanlah yang memanggilku.
+“Iya, kita ke kelas, yuk!”
+“Ayo..” jawabku semangat mendegar ajakannya.
+    </string>
+    <string name="romance_empat_7">
+        Dikelas kami bercerita banyak hal, kami tertawa bersama, bersenda gurau bersama.
+        Pada malam harinya, dia juga menelfonku. Kami begitu akrab. Kami memang pacaran.
+        Aku jadi semakin menikmati indahnya bercinta dengannya.
+        Ternyata inilah yang namanya cinta. Ternyata, benar kata orang, cinta memang indah.
+        Lebih indah dari apapun. AKupun mulai mengerti, cinta adalah hal terindah yang Tuhan ciptakan untuk kita semua…. 🙂
+    </string>
+
+    <string name="romance_lima_1">
+        Orang bilang, hujan itu membawa lagu yang hanya bisa dipahami oleh mereka yang sedang rindu.
+        Ada juga yang beranggapan kalau hujan adalah waktu yang pas untuk mengenang masa lalu.
+    </string>
+
+    <string name="romance_lima_2">
+        Hingga sekarang, aku tidak tahu siapa yang pertama kali menyimpulkan hal tersebut.
+        Sebagian besar memang benar sih.
+        Mungkin karena situasi mendukung; udara yang sedikit lembab, harum petrichor yang menyeruak ditambah tetesan air hujan yang jatuh bagai keping kenangan yang berhamburan dan menghipnotis pikiran.
+    </string>
+
+    <string name="romance_lima_3">
+        Apapun alasannya, aku tetap suka hujan.
+        Aku suka aromanya, mataku tak bisa lepas menatap butiran-butiran air yang menyentak dedaunan, menimbulkan suara gemericik yang indah saat beradu dengan tanah dan atap rumah.
+    </string>
+
+    <string name="romance_lima_4">
+        Hujan mengajarkanku banyak hal:
+        Tentang kenangan.
+        Harapan.
+        Dan tentang? seseorang.</string>
+
+    <string name="romance_lima_5">
+        Ketika itu, aku sedang duduk di dekat jendela kelas, memperhatikan teman-teman yang asik main hujan. Saat itulah kau datang menghampiri.
+“Hei, Gunung Es.” Sapamu santai.
+Aku yang tak ingin diganggu langsung menatapmu jengkel.
+‘Just leave me alone!’ Usirku dalam hati.
+Tapi kau malah terkikik geli. Tanganmu sigap menarik kursi lalu duduk di hadapanku.
+    </string>
+
+    <string name="romance_lima_6">
+        “Enggak terasa masa SMA kita akan berakhir.” Raut wajahmu mendadak berubah sendu, manik cokelat muda yang biasa bersinar itu meredup seakan kehilangan energi.
+“Ya,” jawabku singkat melempar pandangan ke arahmu.
+Nih orang kenapa sih?
+    </string>
+
+    <string name="romance_lima_7">
+        Kau membalas lewat senyum yang dipaksakan, “itu artinya kamu akan bebas karna aku nggak akan mengusik lagi.”
+Kedua sudut bibirku tertarik ke samping, “baguslah kalo gitu.”
+    </string>
+
+    <string name="romance_lima_8">
+        Hari-hari akan kulalui dengan nyaman.
+Tidak ada panggilan “Gunung Es” lagi,
+Tidak ada ocehan menyebalkan
+Tidak ada yang akan menggeser posisiku di peringkat kelas.
+Tidak ada lagi? dirimu.
+    </string>
+
+    <string name="romance_enam_1">
+        Pernahkah bertanya pada kekasih atau suami, "kenapa kamu mencintaiku?" Setidaknya 3 dari 5 orang pernah menanyakan hal ini pada kekasih atau suaminya.
+        Dan, jawaban yang diperoleh tak selamanya romantis, kan? Bahkan sebagian besar pria malah meresponnya dengan gemas, "tak cukupkah kehadiranku menjawabnya?"
+    </string>
+    <string name="romance_enam_2">Berikut adalah sebuah kisah yang dititipkan oleh para pria tentang cinta mereka...</string>
+
+    <string name="romance_enam_3">
+        Suatu hari, seorang pasangan kekasih sedang berjalan-jalan di taman.
+        Dipetiknya sebuah bunga yang cantik oleh si pria dan diberikan kepada kekasihnya, "ini untukmu sayang." Di luar dugaan, kekasihnya justru terdiam.
+        Tak berapa lama kemudian ia bertanya pada kekasihnya?
+    </string>
+    <string name="romance_enam_4">
+        Wanita: Kenapa kau menyukaiku? kenapa kau mencintaiku?
+        Pria: Aku juga tidak tahu alasannya. Tetapi aku sangat menyukaimu, aku mencintaimu, sayang.
+    </string>
+    <string name="romance_enam_5">
+        Wanita: Kamu jahat. Kamu bahkan tidak bisa menyebutkan satu alasanpun mengapa kau menyukai aku.
+        Kalau suatu saat nanti ada yang lebih cantik dari aku pasti kau akan meninggalkan aku.
+        Bagaimana bisa kau bilang kau mencintaiku jika kau tak tahu alasannya?
+    </string>
+    <string name="romance_enam_6">
+        Pria: Aku benar-benar tidak tahu alasannya, sayang. Tetapi, bukankah perhatian, kasih sayang dan kehadiranku di hidupmu sudah menjadi bukti cintaku?
+        Wanita: Bukti apa? Semua tidak membuktikan apapun. Aku hanya butuh alasan, kenapa kamu bisa menyukaiku? Kenapa kamu mencintaiku?
+        Pria: Baiklah, akan kucoba cari alasannya. Eum... karena kamu cantik, kamu punya suara yang indah, kulitmu halus, rambutmu lembut... Cukupkah alasan itu?
+        Kekasihnya kemudian mengangguk, dan menerima bunga itu dengan senang hati.
+    </string>
+
+    <string name="romance_tujuh_1">
+        “Aku ingin ada seseorang yang akan kulukiskan dalam lembaran-lembaran kertas kehidupanku yang dipenuhi senyuman dan tangis kebahagiaan”
+Kubaca sepenggal kalimat yang tertulis dalam buku diaryku yang telah usang dan dipenuhi debu.
+    </string>
+    <string name="romance_tujuh_2">
+        “Mama” terdengar suara mungil itu memangggilku “iya sayang” aku buru-buru beranjak dari tempat tidurku dan menyimpan kembali buku diaryku ke dalam laci.
+        “Mama, lihat kia dikasih boneka sama papa” ucap anak kecil itu kegirangan sambil menunjukkan boneka minion berukuran sedang yang sangat disukainya.
+        Di belakang anak kecil itu berdiri seorang laki-laki yang tak asing lagi bagiku, dia tak lain adalah suamiku.
+        Aku menghampirinya kemudian menjabat dan mencium tangannya, dia mengusap kepalaku dengan lembut dan tersenyum.
+        Terlihat dari tatapan matanya kepadaku menandakan bahwa ia merasa bahagia ada pada posisinya saat ini, aku membalas tatapan matanya itu dan mulai menerawang bagaimana perjalanan kisahku bersamanya hingga bisa sampai pada titik ini.
+    </string>
+    <string name="romance_tujuh_3">
+        Sore itu hujan turun cukup deras, aku berteduh di pelataran toko yang jaraknya tak jauh dari sekolahku.
+        Pakaian putih abu yang kukenakan sedikit basah terkena air hujan, seharusnya aku tidak memaksakan diri untuk segera pulang dengan keadaan langit yang terlihat sudah tak mampu menahan air matanya.
+        Tiba-tiba seorang laki-laki yang mengendarai motor matic berhenti di depanku kemudian ikut menemaniku berteduh di tempat itu.
+        Sedikit aku melirik ke arahnya, aku lihat laki-laki itu bertubuh tinggi dengan wajah yang tampan kulit sawo matang dan hidungnya yang mancung.
+        Seakan menyadari bahwa aku sedang memperhatikannya dia menoleh dan tersenyum padaku, aku segera mengalihkan pandanganku.
+        Suasana hening tercipta beberapa menit sebelum akhirnya dia memulai percakapan.
+    </string>
+    <string name="romance_tujuh_4">
+        “Hujannya deras banget mana udah sore lagi” kupandangi rintik air hujan yang tidak berhenti membasahi bumi, aku hanya tersenyum mendengar perkataannya.
+        “kamu siswi Madrasah Aliyah itu?” tanyanya sambil menunjuk bangunan sekolahku. Aku hanya mengangguk dan tersenyum padanya.
+        “hmm kenapa jam segini baru pulang?” tanya dia lagi. “Ada pelajaran tambahan karena sebentar lagi ujian nasional berlangsung” jelasku padanya “oh jadi kamu kelas XII, hmm sama dong” tuturnya menanggapi penjelasanku.
+        “lalu kenapa kamu baru pulang?” tanyaku basa-basi “tadi aku habis futsal, pas pulang di jalan malah hujan deras jadi berteduh dulu disini terus ketemu kamu. hehe” dia tertawa kecil sambil menggodaku.
+    </string>
+    <string name="romance_tujuh_5">
+        Kring.. kring.. kring.. handphoneku berbunyi tanda panggilan masuk “halo assalamu’alaikum mah” sapaku
+        “wa’alaikumsalam, kamu dimana? udah sore kok belum pulang, acaranya sudah mau dimulai” “iya mah sebentar lagi ra pulang”
+        “hati-hati di jalan ra” “iya mah, assalamualaikum” jawabku lalu mengakhiri panggilan.
+    </string>
+    <string name="romance_tujuh_6">
+        “Memang ada acara apa?” tanya laki-laki itu, mungkin samar-samar ia mendengar percakapanku dengan mama di telepon.
+        Aku memandangi tetesan air hujan yang mulai reda. “Sore ini kakakku bertunangan, aku harus cepat sampai rumah untuk menghadiri acara itu. Tapi, hujan menahanku disini ditambah lagi angkot sedari tadi tidak ada yang lewat” aku tertunduk lesu.
+
+        Dia lalu memakai helmnya dan menstarter motor maticnya itu, aku bingung sendiri melihat tingkahnya.
+        “Ayo aku antar kamu pulang, hujannya juga udah mulai reda” aku terperangah mendengarnya.
+        Siapa laki-laki asing ini aku tidak mengenalnya dan tiba-tiba dia memberikan tumpangan gratis padaku? “udah jangan bengong nanti kamu terlambat, ayo naik” ajak dia lagi.
+        Mau tak mau aku harus secepatnya pulang ke rumah aku tidak mau melewatkan acara bahagia bagi kakakku dan berharap laki-laki ini benar mengantarkanku sampai rumah.
+    </string>
+    <string name="romance_tujuh_7">
+        Sampai di rumah ternyata acara pertunangan kakakku sudah selesai hanya rasa kecewa dan penyesalan yang aku rasakan saat ini, sampai aku lupa mempersilahkan laki-laki itu masuk ke dalam rumah.
+        “kamu darimana saja baru pulang, basah kuyup gini lagi” tanya mamaku khawatir “tadi aku berteduh dulu nunggu hujan reda” jawabku pada mama “nak, masuk dulu biar ibu buatkan teh hangat untukmu” ajak mama mempersilahkan laki-laki itu masuk.
+        Dia kemudian masuk ke rumahku dan duduk di atas karpet bekas acara pertunangan kakakku yang belum dibereskan.
+
+        Setelah berganti pakaian aku menghampiri dan ikut duduk di sampingnya.
+        Tak lama kemudian mama datang membawa dua cangkir teh hangat “namamu siapa nak?” tanya mama padanya “Rizky” jawabnya sambil tersenyum, aku baru mengetahui namanya sekarang karena selama berteduh kami tak saling memperkenalkan identitas masing-masing.
+        “Oh iya terimakasih sudah mengantarkan Dhira pulang” lanjut mama “iya sama-sama bu” jawabnya lalu berpamitan untuk pulang.
+    </string>
+    <string name="romance_tujuh_8">
+        Keesokan harinya saat aku tengah menunggu angkot untuk pulang ke rumah tiba-tiba Rizky sudah ada di hadapanku “loh kamu” ucapku kaget “assalamualaikum nona cantik, ayo aku antar kamu pulang” ajak dia dengan lembut “waalaikumsalam, tapi..” belum aku melanjutkan perkantaanku dia sudah siap mengendarai motornya “ayo naik, lihat langit sudah mendung nanti kehujanan lagi” rayu dia.
+        Aku cepat-cepat naik ke motornya karena tidak ingin papa dan mamaku khawatir melihatku pulang dengan keadaan basah kuyup seperti kemarin.
+        Sepanjang perjalanan aku mengobrol banyak dengannya, bersenda gur bercerita tentang kepribadian masing-masing dan akhirnya saling bertukar momor handphone.
+
+        Beberapa bulan kami menghabiskan waktu bersama, terasa ada sesuatu yang lain di hatiku.
+        Mungkinkah aku jatuh cinta lagi? Tidak! aku tidak ingin terpuruk lagi karena cinta yang tak seharusnya ada di hatiku.
+        Aku mencoba menekan sebuah rasa cinta di hatiku agar tidak semakin menjadi-jadi, tapi apa dayaku saat mengajakku untuk dinner pada sabtu malam aku merasa sangat bahagia dan langsung mengiyakan ajakannya.
+    </string>
+    <string name="romance_tujuh_9">
+        “dinnernya disini?” tanyaku heran saat masuk kesebuah warung penjual ikan bakar di pinggir jalan.
+        “Iya, kamu keberatan? kalo gitu kita cari tempat lain” jawab Rizky dan bergegas pergi, “tidak, ayo duduk” aku menarik tangannya dan mempersilahkan dia duduk di sampingku.
+        Kesederhanaannya itu yang membuat aku menyukainya, dia jauh berbeda dengan laki-laki yang pernah aku kenal.
+        Meskipun dia berasal dari keluarga berada dia tidak pernah menghambur-hamburkan uang pemberian orangtuanya atau menyombongkan diri.
+
+        Makan malam dengannya terasa indah diiringi alunan musik yang dimainkan pengamen, meski suara mereka tidak begitu merdu tapi kami tetap menikmatinya.
+        “Mas boleh pinjam gitarnya? nanti saya beri uang sebagai gantinya” pinta Rizky pada seorang pengamen, “boleh silahkan” jawab pengamen itu.
+        Aku tidak mengerti apa yang akan Rizky lakukan dengan gitar itu.
+    </string>
+    <string name="romance_tujuh_10">
+        Rizky mulai memetik gitarnya dan menyanyikan sebuah lagu yang tak asing lagi di telingaku, lagu “John legend – All of me” yang menjadi favoritku dia nyanyikan dengan suaranya yang merdu.
+        Aku hanyut dalam lantunan lagu yang dia nyanyikan.
+
+        Tiba-tiba dia berhenti bernyanyi dan menggenggam tanganku sontak aku terkejut dengan itu.
+        “Apa aku seperti type idealmu?” tanyanya “Apa?” “jika aku menyukaimu apa kamu mau menjadi kekasihku? lama aku menunggu untuk saat seperti ini” Rizky melanjutkan kalimatnya.
+        Mulutku bungkam tak mampu berkata, terdengar suara pengunjung bersorak “Terima terima terima” aku memandang mereka dan tersenyum.
+        “Baik, aku menerima kamu” kutatap mata Rizky lekat-lekat disertai tepuk tangan pengunjung yang meramaikan suasana di warung ikan bakar tersebut.
+    </string>
+    <string name="romance_tujuh_11">
+        “Ma, kok bengong? ayo kita makan, papa udah laper ni. hehe” Rizky membuyarkan lamunanku.
+        Kini dia telah menjadi suamiku, kami telah dikaruniai seorang putri yang cantik bernama Adzkia Putri yang masih berumur 3 tahun.
+        Aku merasa menjadi salah satu wanita terbahagia di dunia ini karena bisa hidup bersama laki-laki yang sangat kucintai dan dianugerahi peri cantik yang selalu membuatku tersenyum disaat jenuh.
+        Kuharap laki-laki ini menjadi kekasih terkahir dalam hidupku yang akan menemani habisnya sisa umurku.
+    </string>
+
+    <string name="horror_satu_1">
+        Entah mengapa ibuku selalu melarangku untuk bermain di rumah kosong di seberang rumah kami.
+        Ibuku bilang bahwa di dalam rumah itu, terdapat monster penculik anak kecil yang seumuran denganku. Tapi aku tidak percaya akan hal itu.
+    </string>
+    <string name="horror_satu_2">
+        Aku melihat rumah itu dari jendela kamarku, tampak luar rumah tersebut terlihat seperti rumah biasa pada umumnya.
+        Dengan kondisi halaman depan agak berantakan oleh dedaunan kering. Aku yakin ibuku hanya menakutiku supaya aku tak keluar rumah.
+    </string>
+    <string name="horror_satu_3">
+        Keesokan harinya…
+        Disaat orangtuaku tidak ada di rumah, Aku pun mencoba masuk ke rumah kosong itu sendirian.
+        Aku berjalan perlahan masuk ke dalam sebuah ruangan, seperti ruang tamu, aku melihat ada banyak bercak darah yang menghiasi dinding dengan diterangi pencahayaan redup.
+        Namun aku mengabaikannya dan tetap melangkahkan kakiku ke ruangan lain. Di ruang lain pun semakin banyak bercak darah di dinding bahkan di lantai berceceran darah.
+    </string>
+    <string name="horror_satu_4">
+        Aku menemukan sebuah box berukuran sedang di setiap pojokan ruangan, aku mencoba membuka box itu dan ternyata isinya organ-organ dalam manusia.
+        Astaga. Untuk apa ini?
+
+        Aku berlanjut ke ruangan berikutnya, masih dalam keadaan yang sama dihiasi bercak darah.
+        Aku melihat pintu ruangan tersebut sedikit terbuka, aku melihat orang 2 dewasa sedang bermain di atas kasur.
+        Dan aku mendengar suara tawa mereka bersama beberapa anak kecil.
+    </string>
+    <string name="horror_satu_5">
+        Aku memberanikan diri untuk membuka pintu kamar itu, Betapa terkejutnya aku melihat ibu dan ayahku bermain bersama 2 anak kecil dengan tawa mereka yang riang.
+
+        Aku pun bertanya kepada mereka tentang hal ini.. Ibuku mengajakku keluar kamar itu.
+        Dan ibuku menceritakan tentang ini kepadaku.
+        Aku tak mengerti, kata ibuku anak-anak kecil itu sebagai sumber uang bagi keluarga kami. Sumber uang?
+    </string>
+    <string name="horror_satu_6">
+        Rupanya selama ini mereka menyembunyikan hal ini kepadaku. Aku kira aku bukan anak tunggalnya mereka.
+        Ternyata ini adalah sebuah ide mereka untuk mencari penghasilan keluarga.
+
+        Semenjak hari itu, aku sering mengajak teman-temanku untuk bermain bersamaku. Ya. Tentu saja aku membantu orangtuaku.
+
+        Ini lah aku, seorang anak yang hidup di tengah keluarga dari hasil merampas organ teman-temanku.
+        Apapun akan aku lakukan untuk membantu orangtua
+    </string>
+    <string name="horror_dua_1">
+        Matahari telah keluar dari sarangnya, burung-burung pun mulai berkicauan.
+        Menandakan pagi telah tiba. Hari ini adalah hari minggu.
+        Biasanya orang-orang bersantai dan berkumpul bersama keluarga.
+        Tapi, tidak bagi Arga, kedua orangtuanya tak pernah meluangkan waktunya untuk Arga, alasan mereka adalah sibuk.
+        Papa Arga sibuk dengan mengurusi bisnisnya, walau hari ini hari minggu.
+        Sedangkan mamanya, lebih memilih berkumpul bersama teman-temannya ke mall atau salon.
+        Begitulah hari-hari Arga, tak pernah dapat perhatian dari orangtuanya.
+    </string>
+    <string name="horror_dua_2">
+        Hari ini sangat membosankan baginya, karena jika di hari lain tentu ia dapat bermain dengan teman sekolahnya.
+        Sekarang ia tak tahu apa yang dilakukan. Pergi keluar rumah tidak dibolehkan, bermain game sudah membosankan.
+
+        Tak terasa hari sudah malam, bagi Arga tentu sangat lama karena tidak ada aktivitas yang ia lakukan.
+        Saat sedang asik menonton film kesukaannya ia mendengar seseorang yang memanggilnya.
+        “Arga… Arga…”. suara itu sedikit serak. “Siapa?” Arga yang mendengar suara itu langsung bertanya.
+        “Arga lihatlah kesini aku ingin sekali bermain denganmu..” panggil suara serak itu. Arga yang tak mengenali suara itu tak berani menoleh.
+        Tak ada siapapun di rumah kecuali dia dan 2 orang pembantu di rumah besar itu.
+    </string>
+    <string name="horror_dua_3">
+        Dengan mengumpulkan keberanian ia langsung menoleh ke belakang. “Siapa sih?” tanyanya.
+        Anehnya yang ia lihat hanya bayangan hitam.
+        Sesaat Arga berpikir kalau itu hantu, tapi tiba-tiba pikiran itu berubah.
+        Ketika ia mengingat bahwa ayahnya akan pulang malam ini dan menghabiskan waktu bersamanya.
+        “papa… itu papa ya?” tanpa pikir panjang ia langsung mengikuti bayangan tersebut dan…
+    </string>
+    <string name="horror_dua_4">
+        Setelah beberapa hari Arga ditemukan tewas di gudang rumahnya.
+        Orang-orang mengira adalah karena makhluk gaib penghuni rumah tersbut.
+        Karena dahulu pemilik rumah yang lama sering mengalami teror yang mengakibatkan anak meraka meninggal.
+
+        Setelah kejadian itu orangtua Arga sangat menyesal karena tak pernah meluangkan waktu untuk anak mereka.
+    </string>
+
+    <string name="horror_tiga_1">
+        Panggil gua Rian.
+        Malam ini hujan turun cukup lebat, gua, Diki dan Yayan berlari kecil ke saung dekat sawah rumah pak RT, kami berkumpul di saung ini untuk berbincang hangat sambil menyeruput kopi hangat, apa lagi malam ini hujan kehangatan kopi sangat nikmat menemani.
+    </string>
+    <string name="horror_tiga_2">
+        Kegiatan kami berkumpul di saung ini, di sawah ini hanya setiap malam Kamis dan Sabtu.
+        Hari hari biasanya kami kuliah di salah satu universitas swasta di Jawa tengah. Kami hanya libur di hari Jumat dan Minggu.
+        Senin sampai Rabu jadwal terlalu padat jadi terlalu lelah untuk berkumpul hahaha.
+        Di malam kami berkumpul, kegiatan kami adalah mencari belut di sawah pak RT, tentu kami sudah minta izin pada pak RT untuk memancing belut di sawah miliknya.
+        Dari hari Kamis sampai Sabtu, hanya hari Jumat yang tidak boleh.
+        Entah apa alasannya tapi pak RT menegaskan agar kami tidak berkumpul di saung ini hanya di hari Jumat malam.
+    </string>
+    <string name="horror_tiga_3">
+        Pak RT ini orang yang ramah pada warga sekitar, rumah dua lantai tetapi tampak sederhana.
+        Depan rumah pak RT terbentang sawah yang cukup luas untuk bercocok tanam.
+        Dari semua hal itu ada sisi aneh dari rumah pak RT yang selalu gua, Diki dan Yayan debatkan.
+        Yaitu di kamar kiri tepat sebelah pintu keluar, jika malam telah tiba.
+        Dari luar terlihat lampu di seluruh rumah itu menyala kecuali di kamar itu. Dari jendela luar sama sekali tidak tampak cahaya yang menyala.
+        Entah memang ruang itu tidak terpakai atau sudah menjadi gudang, hal ini sudah kami debatkan sejak lama tapi tidak menemukan jawabannya.
+    </string>
+    <string name="horror_tiga_4">
+                Singkat cerita. Di hari Kamis malam ini. Hujan turun cukup lebat yang kami lakukan hanya nongkrong sambil menyeruput kopi hangat.
+        Kami tidak bisa menangkap belut seperti biasa. Padahal benang kail pancing dan umpan kodok sudah disiapkan, gua pikir hujan turun hanya sebentar.
+        Tapi ternyata jam menunjukan pukul 11:23. Kami tak bisa berbuat apa-apa dan memutuskan untuk pulang.
+        Ini adalah Pertama kalinya kami tidak memancing di hari Kamis
+    </string>
+    <string name="horror_tiga_5">
+                Sesampai di rumah. gua mendapat telepon dari Diki, “Ian hari ini gak dapet hasil.
+        Agak ada yang kurang jadinya hehehe”. Yah kami berbincang biasa dalam koneksi jauh itu.
+        Seketika Diki ngajak gua untuk mengganti hari yang gagal ini dengan Jumat malam.
+        “Gila lu. Kalo ketauan pak RT bisa berabe urusan” jawab gua dengan cepat, “elah kita gak pernah berisik kalo lagi mancing.
+        Jadi kalo emang setiap Jumat malem pak RT ada acara di rumahnya gak bakal keganggu, gua dah bilang ke si Yayan, dia bilang oke-oke aja.” Jawab Diki. gua berpikir sejenak dan menyetujui ide tersebut.
+        Walau perasaan gua tidak enak tapi gak mungkin gua ninggalin kawan.
+    </string>
+    <string name="horror_tiga_6">
+                Malam itu pun datang juga di Jumat malam. Semua berkumpul di rumah Yayan, karena di sana lah tempat terdekat ke saung kami. G
+        ua sedikit terlambat malam ini, penyelesaian tugas yang harus dikumpulkan hari sabtu akhirnya selesai.
+        Dan gua langsung berangkat ke rumah yayan sesampainya di sana Diki dan Yayan sedang duduk sambil makan gorengan.
+        Yah memang malam ini sedikit telat, karena waktu sudah menunjukkan pukul 9:57, intinya sudah jam 10.
+        Tanpa mengulur waktu semua peralatan langsung berada di genggaman kami, dan kami langsung berangkat menuju sawah pak RT.
+        Rumah pak RT begitu sepi dan senyap, sepeti malam biasanya, lantas mengapa kami dilarang kesini di hari jumat. Pikiran itu terlewat di benak gua.
+        Kami memancing dan mencoba tidak berisik agar tidak ketahuan oleh pak RT.
+    </string>
+
+    <string name="horror_empat_1">
+        “Tidak!! hentikaan!!!”. aku berteriak berharap teriakanku dapat mengubah sesuatu, tapi sudah terlambat.
+        Jleb!! Wening menusuk jantung haidar menggunakan pisau yang sudah berlumuran darah di tangannya.
+        Air matanya menetes tak berhenti ia sadar akan hal yang dilakukannya tapi tubuhnya tak bisa dikendalikannya.
+        ‘Merri’ sudah menguasai seluruh anggota tubuhnya, hanya saja tidak dengan perasaannya.
+    </string>
+    <string name="horror_empat_2">
+        Haidar terjatuh, jantungnya terlepas dari bilah pisau yang digenggam wening.
+        Darahnya mengalir membanjiri lantai. Air mata Wening semakin deras menunjukkan penderitaan yang dialaminya saat ini.
+        Semua hal tragis itu membuat Merri semakin girang. Dia tertawa terbahak bahak menikmati suasana yang diciptakannya.
+    </string>
+    <string name="horror_empat_3">
+        Wening mengambil kesempatan dari peristiwa itu.
+        Dia melepas kendali Merri dan menikam dirinya sendiri dengan pisau yang telah dilumuri darah kekasihnya, kemudian tewas.
+    </string>
+    <string name="horror_empat_4">
+        Roh merri tertarik masuk ke dalam gaun pengantin yang dikenakan wening, disini, aku bagaikan seorang penonton dari sebuah film yang amat menyayat hati.
+    </string>
+    <string name="horror_empat_5">
+        Suara hujan memenuhi seluruh ruangan. Langit seolah ikut menangis menyaksikan peristiwa tragis yang dialami wening.
+        Aku bersalah. Andaikan aku menghentikannya memakai gaun pengantin misterius itu, Merri takkan mengambil alih tubuhnya dan membunuh semua orang yang disayanginya.
+    </string>
+    <string name="horror_empat_6">
+        Aku mengambil pisau berlumuran darah itu dari tangan wening.
+        Dan menusuk diriku sendiri untuk mengakhiri penyesalan dari kesalahan yang telah kuperbuat.
+    </string>
+    <string name="horror_empat_7">
+        Suara hujan yang deras mulai tak terdengar seiring dengan kesadaranku. Kurasa aku akan mati.
+    </string>
+
+
+    <string name="horror_lima_1">
+        Rembulan malam bersinar remang “An katam gak lo?” Tanya Deni memecahkan keheningan malam “katam donk Andi gitu!” jawab Andi dengan begitu sombong.
+    </string>
+    <string name="horror_lima_2">
+        Saat Andi dan Deni asik berbicara tiba-tiba mereka tersentak diam saat mendengar lolongan anjing yang begitu panjang.
+        Gubrakkkk suara kaki mereka berusaha mengiringi langkah kakiku. “Rum kenapa sih lo diem aja dari tadi?” tanya Deni padaku.
+        “gak papa kak” jawabku. “gak mungkin gak ada masalah tapi lo diem aja” cerocos Andi sewot. “kalian gak takut apa?” tanyaku.
+        “huh! Takut siapa emang yang berani melawan Andi si preman kampung” ucap Andi sambil menunjukan kepalan.
+        “kalian tuh sadar gak sih ini malam apa?” tanyaku. “ya sadarlah ini malam jumat kan!” jawab mereka serempak.
+        “malam jumat benar sekali jumat kliwon!” tegasku berusaha mengulangi kalimat mereka. “hahhhhh APA jumat kliwon?” ucap Andi amat terkejut saat menyadari bahwa ini adalah malam jumat kliwon.
+        Malam yang terkenal angker para syetan dan hantu berkeliaran.
+    </string>
+    <string name="horror_lima_3">
+        Seketika itu nyali mereka menciut, Andi dan Deni terus mengiringi langkah kakiku.
+        Gemetar di tangan mereka semakin menggambarkan rasa takut yang teramat.
+        Tiba-tiba angin datang dengan begitu deras, lolongan anjing semakin jelas terdengar di telinga “itu artinya ada hannnn”
+        “hantuuuu!!!” teriak Andi dan Deni sambil lari tunggang langgang meninggalkan aku sendirian di tengah kegelapan malam.
+        Tanpa menghiraukan tas dan sandal mereka yang porak poranda mereka ngicir lari tak tentu arah.
+    </string>
+    <string name="horror_lima_4">
+        “seperti apa hantu itu?” batinku bertanya-tanya. Rasa penasaran mengalahkan segala ketakutanku.
+        Dengan keyakinan yang kuat bahwa manusia lebih sempurna kuhadapkan wajahku ke arah pembibitan yang terkenal angker itu.
+        Dan iya ternyata betul disana terlihat sosok putih yang melambai-lambai mengikuti arah angin.
+        “hanya seperti itukah sosok hantu yang membuat Andi dan Deni ngacir ketakutan?”
+    </string>
+    <string name="horror_lima_5">
+        Kembali kuamati sudut komplek gelap itu datanglah sosok hitam mendekatiku.
+        Semakin dekat jatungku seolah berhenti berdegup, kaki ini seakan tak mampu menompang tubuh nyalikupun mulai menciut. “ha…ha…hann” ucapku ketakutan
+        “huaaaaa” ucap makhluk itu. Seketika itu aku terduduk.
+        “rum pingsan ya?” tanya makhluk hitam itu? “heee jangan pingsan ini pak kus bukan hantu!” saat mendengar penjelasan darinya aku langsung berdiri.
+        Kuamati ternyata benar itu pak kus yang sedang keliling mengecek perkebunan.
+    </string>
+    <string name="horror_lima_6">
+        Dan kesokan hari karena masih merasa penasaran aku kembali ke kompek itu berniat melihat sosok putih yang semalam melambai-lambai ternyata oh, tenyata itu adalah sebuah karung pupuk yang sengaja diletakan di atas tumbuhan.
+        Itu artinya tidak ada hantu di dunia ini yang ada hanya halusinasi yang membuat rasa takut yang berlebihan.
+    </string>
+
+    <string name="horror_enam_1">
+        Angin dingin yang berhembus kencang membuat seluruh tubuh ini terasa beku.
+        Sepinya suasana membuat aku terpaku seorang diri. Sudah berapa lama aku melangkah, sudah berapa jauh aku berjalan… Hanya suara jangkrik yang kudengar.
+    </string>
+    <string name="horror_enam_2">
+        Dimana aku… Mengapa aku ada di tempat seperti ini…, aku hanya samar mengingatnya. Aku ingin pulang!
+    </string>
+    <string name="horror_enam_3">
+        Tiba-tiba tengkukku terasa dingin ketika sesuatu melintas tepat di atas kepalaku.
+        Jantungku serasa berhenti berdetak ketika kulihat sosok menakutkan yang biasanya hanya kulihat dalam film bioskop.
+    </string>
+    <string name="horror_enam_4">
+        “Hei,… Kau baru ya?”, sapanya dengan suara sengau dan parau. Lebih seram dari yang ada di film.
+        Hampir aku melompat karena takut ketika wajahnya tepat di depan mukaku.
+    </string>
+    <string name="horror_enam_5">
+        “Hahahaha… Ada yaaa, makhluk halus takut juga sama makhluk halus lainnya!” ujarnya membuatku terpaku.
+        Makhluk seram itu kembali terbang meninggalkan aku sendiri yang diam mematung dengan tubuh gemetar tak karuan.
+        Mimpikah aku? Ada apa dengan diriku? Mengapa aku seperti sedang berada di hutan luas tak berujung…?
+    </string>
+    <string name="horror_enam_6">
+        Airmataku meleleh tanpa terasa. Antara bingung dan takut…, kulanjutkan perjalanan ini.
+        Aku ingin pulang! “Mamah, papah, dimana kalian? Kak Roy, kak Gio… Kalian dimana? Tolong aku…!! Kawan-kawanku, kalian dimana??”
+    </string>
+    <string name="horror_enam_7">
+        Jalanan ini tak kuketahui. Arah kemana lagi harus kulewati. “Mamaaah!! Papaaah!!! Dimana kalian???”
+        Aku teriak. Berharap akan datang seseorang yang menolongku. Tapi hanya suara angin yang menggoyangkan dedaunan pohon-pohon sepanjang jalan ini.
+    </string>
+    <string name="horror_enam_8">
+        Ada lima anak kecil berkepala plontos berlarian melewatiku begitu cepat. Tawanya menyakitkan telinga. Dan mereka pun seolah tak peduli padaku.
+        Lalu ada sepasang kakek nenek berbaring di pinggir jalan. Tubuh mereka kurus kering hanya tulang terbungkus kulit.
+        Tapi matanya merah menyala menatapku tajam. Aku tercekat. Panas dingin tak karuan.
+    </string>
+    <string name="horror_enam_9">
+        “Mau kemana kau, Nak?” sapa sang kakek membuatku seperti tersengat listrik. Lidahku kelu, tak dapat bicara.
+        Hanya bibir bergetar dengan airmata berlinang.
+        Tapi anehnya aku tidak pingsan. Aku hanya merasakan seperti lemas dan ringan. Bahkan langkahku semakin cepat.
+        Kenapa jalanan ini penuh dengan orang-orang yang terlihat menyeramkan.
+        Ada saja makhluk yang membuat dadaku seperti berhenti bernafas. Dan syukurnya, mereka hanya melintas atau hanya memandangku begitu saja tanpa ada yang mengusikku.
+    </string>
+    <string name="horror_enam_10">
+        “Mamaaah…!!! Papaaah…!!! Aku takut!!!” rintihku dengan deraian airmata.
+        “Berisik!!!”
+        Aku meloncat kaget. Sosok hitam besar menghardikku dari balik pohon besar. Tubuhnya penuh bulu.
+        Aku menundukkan kepala karena takut melihat mukanya yang seram. Ada seorang anak perempuan dibalik ketiaknya.
+    </string>
+    <string name="horror_enam_11">
+        Langkahku makin cepat. Airmataku semakin deras. Jantungku pun semakin kencang berdetak.
+    </string>
+    <string name="horror_enam_12">
+        Dimana aku…? Aku jatuh terkulai lemas karena dadaku yang sesak.
+        Suara-suara aneh berbisik, berteriak bernyanyi… Tertawa dan menjerit membuat bulu kudukku semakin meninggi.
+        Tuhaaaan!!! Tolonglah aku Tuhan…
+    </string>
+    <string name="horror_enam_13">
+        Sayup-sayup kudengar samar seperti suara orang mengaji. Lantunan ayat suci membuatku agak tenang.
+        Tapi dimana suara itu… Kadang terdengar jelas, kadang menghilang. Terdengar jauh… tapi kadang seperti dekat.
+    </string>
+    <string name="horror_enam_14">
+        Aku berlari mencari arah suara orang mengaji. Setengah histeris berharap ada seseorang yang mau menolongku.
+        Mengantarku pulang ke rumah. Bertemu mamah, papah dan kakak-kakak lelakiku.
+    </string>
+    <string name="horror_enam_15">
+        Di ujung jalan kulihat seorang anak perempuan memandangku tak berkedip. Rambutnya yang panjang hampir menyapu jalan mengibas tertiup angin.
+        Tuhaaaan…!!! Dunia apa ini?? Aku menjerit histeris. Anak itu terus mengikutiku dari belakang.
+    </string>
+    <string name="horror_enam_16">
+        “Kakak,… jangan panik. Bersyukurlah kakak masih ada yang mengirimkan doa untuk kakak.
+        Aku,… Sudah bertahun-tahun berkeliaran di jalan, tak ada yang mendoakan aku. Aku anak yang dibuang orangtua, Kak! kudengar orangtua kakak mengaji, mengirim doa untuk kakak.”
+        Anak perempuan itu berkata membuatku terhenyak. Apa maksudnya? Kubalikkan tubuhku kearahnya. Mata nanarnya yang kosong seolah menembus jantungku.
+    </string>
+    <string name="horror_enam_17">
+        “Kakak ingin pulang? Duduklah dengan tenang. Pejamkan mata kakak.
+        Ingat akan diri kakak, rumah kakak, keluarga kakak… Maka akan sampai kakak pada tujuan kakak!”
+        Aku menatapnya tak kalah tajam. Kuusap airmataku. Aku ingin pulang! Tak mau terus berkeliaran seperti ini.
+        Kuikuti petunjuknya. Dengan harapan, aku segera pulang.
+    </string>
+    <string name="horror_enam_18">
+        Kupejamkan mata. Kutenangkan hati. Kubayangkan rumah mungilku yang bersih dan asri.
+        Lalu terlintas wajah mamah yang manis dengan pipi cabi-nya. Wajah papah yang penuh dengan jenggot tipis.
+        Lalu kakak-kakakku yang baik walau kadang jahil. Airmataku kembali mengalir.
+    </string>
+    <string name="horror_enam_19">
+        Suara orang mengaji seperti ada di depanku. Kubuka mata dan kulihat mereka semua yang tadi kurindukan.
+        Banyak orang di rumahku. Seperti sedang ada selametan. Semua para tamu kebanyakan bapak-bapak tetangga sekitar rumah.
+    </string>
+    <string name="horror_enam_20">
+        Kulihat mamah tampak kusam. Wajahnya yang bulat terlihat tirus. Sakitkah mamah?… Airmata mamah mengalir seperti aku.
+        Di kumpulan bapak-bapak, kulihat papah. Memakai kopiah hadiah dariku ketika ulang tahunnya sebulan yang lalu. Ada kak Roy, kak Gio… juga ada kak Erin, tunangan kak Roy.
+        Merekapun berlinang air mata.
+    </string>
+    <string name="horror_enam_21">
+        Tiba-tiba ada seorang ibu menepuk pundakku. Dia menatapku tak percaya. Mata bulatnya seolah hendak melompat keluar.
+        “Mariska??!?”
+        Tiba-tiba ibu itu pingsan hingga suasana menjadi gaduh. Beberapa orang berusaha membopongnya membawa ibu itu ke dalam kamar kak Gio.
+    </string>
+    <string name="horror_enam_22">
+        Lama akhirnya ibu itu siuman. Acara telah selesai. Sebagian orang memilih pulang ke rumah masing-masing, sebagian melanjutkan mengaji Yasin.
+        Ibu itu terus menatapku tajam. Ia menganggukkan kepala seolah memanggilku untuk mendekat padanya.
+        Aku mendekatinya. Kulihat orang sekitar memandang si ibu seperti tak mengerti gerakan-gerakannya. Malah ada yang berbisik kalau ibu itu kesurupan.
+    </string>
+    <string name="horror_enam_23">
+        Aku ceritakan aku dari mana. Seperti air mengalir, ceritaku begitu lancar dan ingat kejadian apa yang telah aku alami.
+        Aku menangis histeris. Aku tak kuat lagi menceritakan peristiwa apa yang aku alami.
+    </string>
+    <string name="horror_enam_24">
+        Malam itu aku pulang dari sekolah.
+        Memang tidak seperti biasanya, kali ini aku pulang lewat dari jam 9 malam karena sepulang sekolah jam 5 sore tadi aku ikut Via sahabatku untuk bermain dulu di warnet.
+        Aku memang nakal. Kuakui itu dan kini aku sangat menyesalinya. Sudah seminggu ini mamah marah-marah karena aku suka pulang telat.
+        Bodohnya aku tidak menghiraukan mamah.
+    </string>
+    <string name="horror_enam_25">
+        Seperti malam itu. Aku pulang jam 9 malam. Sendirian pula.
+        Di suatu jalan yang memang sepi dan terkenal rawan, ada beberapa pemuda mabuk berlawanan arah denganku.
+        Awalnya aku melangkah cepat dengan sikap cuek. Karena kupikir orang mabuk didorong saja pasti langsung jatuh.
+    </string>
+    <string name="horror_enam_26">
+        Hingga tiba-tiba seorang dari mereka menarik tanganku dan mendekap erat tubuhku. Aku berontak.
+        Kusikut tubuh baunya hingga aku terlepas. Tapi ternyata beberapa lainnya memegangi tangan dan kakiku.
+        Mereka menyeretku kesemak-semak. Mereka dengan biadabnya merenggut kegadisanku. Bergiliran tanpa rasa iba.
+    </string>
+
+
+    <string name="fiction_dua_1">
+        Di suatu Pulau nan jauh bernama Pulau Keju,hiduplah seorang bangsawan muda bernama David.
+        Ia memiliki 3 anak, yaitu Devin, Dani, dan Daniel.
+    </string>
+    <string name="fiction_dua_2">
+        Devin adalah yang tertua, dan paling suka terhadap keju.
+        “Hmmmmmm, keju!!, enak sekali.” Dani adalah yang kedua, dan suka makan apa saja yang enak.
+        Sedangkan Daniel adalah Pembenci Keju. “Ihhhhh, keju gak mau ah… jijik.” seru Daniel.
+    </string>
+    <string name="fiction_dua_3">
+        Pulau keju merupakan pulau yang memiliki legenda, yaitu kerajaan keju. Tetapi, tidak ada yang tahu kebenarannya.
+        Memang, di dekat pedalaman ada sebuah kerajaan keju. Keju disana dapat berbicara. Kadang, mereka kesal terhadap Daniel. Mereka suka melihat pemakan keju.
+    </string>
+    <string name="fiction_dua_4">
+        Daniel sedang melakukan pencarian bersama saudaranya.
+        “Setelah tampak keju tersebut, akan kuinjak mereka.” Kata Daniel.
+        “Ishhhh, kasihan mereka. Baik dimakan… yum.. yummm.” Kata Devin.
+    </string>
+    <string name="fiction_dua_5">
+        Ketika mereka menemukan keju, Daniel langsung jahil. Ia mau menginjak ketika tiba tiba bunyi
+        suara mengurungkan niatnya. “Jangan injak aku”, seru Shaff, keju yang mau diinjak.
+        “Kamu bisa bicara?” Kata Dani.
+        “Ya,” Balasnya.
+        Daniel ketakutan, Dani penasaran, sedangkan Devin Mau memakannya. “Ehhhh tunggu…jangan makan aku. Aku akan membawamu ke Kerajaan Keju.” Seru Shaff
+        “Wah, ternyata keju itu menarik yaa,” kata Daniel. “Sepertinya enak. Aku akan memakan keju mulai sekarang.” Kata Daniel. Yang lain tertawa
+    </string>
+    <string name="fiction_dua_6">
+        Mereka pulang dengan keadaan senang dan semuanya sudah suka keju. Para keju pun senang meilhatnya. Akan tetapi, mereka harus berjanji tidak menyebarkannya
+    </string>
+    <string name="fiction_dua_7">
+        Namun, Daniel membocorkan rahasianya. Akhirnya, setiap ia mau makan yang ada keju, keju tersebut seolah berbicara, “Jangan makan aku atau kau akan jijik”. Ia ketakutan dan berjanji tidak akan membocorkan lagi. Tetapi usaha itu sia-sia dan tidak diterima lagi.
+        Akhirnya Daniel menyesali perbuatannya, namun tetap tidak berguna.
+    </string>
+    <string name="fiction_dua_8"></string>
+
+
+
+    <string name="fiction_satu_1">
+        Di sebuah desa, ada seorang anak yang bernama bintang.
+        Bintang adalah anak yang menyukai boneka, hingga kamarnya dipenuhi boneka.
+        boneka paling banyak adalah kuda pony.
+    </string>
+    <string name="fiction_satu_2">
+        Suatu hari, Bintang ingin meminjam buku di perpustakaan desa, saat sedang mencari cari buku,
+        bintang melihat sebuah buku yang sangat aneh, bintang penasaran dan akhirnya bintang meminjam buku itu.
+    </string>
+    <string name="fiction_satu_3">
+        Setelah pulang dari perpustakaan, bintang cepat cepat menuju kamarnya, sebelum membuka bukunya,
+        terdapat lubang kunci, tetapi tidak ada kunci, bintang pun teringat kunci yang ditemukan saat pulang sekolah,
+        ia langsung menggunakannya, ternyata buku itu terbuka, kemilau cahaya yang muncul dari buku itu (sampai tidak bisa melihat).
+    </string>
+    <string name="fiction_satu_4">
+        Saat membuka matanya, bintang terkejut, bintang berada di sebuah negeri yang tidak diketahuinya.
+        disana banyak boneka boneka, boneka boneka tersebut dapat berjalan sendiri berbicara layaknya manusia.
+        Tiba tiba ada sebuah boneka yang sangat besar dan menakutkan yaitu boneka orang orangan sawah,
+        bajunya sobek sobek warna hitam, saat itu boneka besar menghancurkan sebuah rumah denagan pukulan tangan,
+        bintang pun merasa takut dia berlari seperti angin yang menghembus kencang.
+    </string>
+    <string name="fiction_satu_5">
+        Saat itu ada boneka yang bersembunyi di balik pohon beringin,
+        dengan rasa berani bintang menghampiri boneka itu, bintang bertanya “hey.. kamu kenapa?”
+        tanya bintang dengan rasa ingin tahu. saat boneka itu mengembalikan badan,
+        ia terkejut dan berlari dengan cepat. bintang pun mengejarnya.
+        Akhirnya bintang dapat menggapainya, bintang bertanya “kenapa kamu menangis?” kata bintang.
+        boneka itu, dihancurkan oleh mbah jambrong!”. “siapa mbah jambrong?”.
+        “dia adalah orang yang paling ditakuti di negeri ini, sampai semua tidak berani melawannya”kata boneka.
+        “aaku tadi juga melihat mbah jambrong, aku tidak terima. aku akan melawannya demi negerimu” kata bintang.
+        “apakah kau bisa?, jangan remehkan mbah jambrong!!!” kata boneka.
+        “aku akan mencoba mengalahkanya demi negeri ini” kata bintang.
+    </string>
+    <string name="fiction_satu_6">“sebelumnya, siapa namamu?” tambah bintang. “namaku lalan, namamu siapa?” tanyanya.
+        “namaku bintang, terus bagaimana cara agar bisa mengalahkan mbah jambrong” tanya bintang.
+        “sebenarnya ada satu cara untuk mengalahkan mbah jambrong, dengan menusukan pedang nagasaki ke keningnya” kata lalan dengan serius.
+        “dimana aku bisa mendapatkan pedang nagasaki itu?” tanya bintang.
+        “nagasaki hanya dapat didapatkan di rumah batu yang tidak ada penghuninya, tetapi disana banyak hewan haus darah” kata lalan.
+        “oke… aku akan kesana nanti sore!”
+        Sorenya bintang dan lalan berangkat menuju rumah batu yang terletak di sungai hara, jaraknya tidak jauh dari desa.
+        Saat di tengah perjalanaan tiba tiba…
+        Bukk…
+        Bintang dan lalan mulai takut, tiba tiba lagi..
+        Aaauummm….
+        Seperti suara serigala yang harus darah, dengan langkah cepat bulan dan lalan sampai di ruamah batu,
+        disana sangat gelap, sehingga membuat bintang lalan menjadi takut, dengan penuh berani mereka memasuki rumah itu…</string>
+    <string name="fiction_satu_7">
+        Terdengar suara jangkrik.. yang sangat nyaring, disana banyak kelelawar,
+        bintang lalan menuju ke kamar yang penuh batu. Batu batu itu dibongkarnya,
+        ditemukan pedang nagasaki yang berkilau. bintang langsung mengambilnya.
+        Tiba tiba rumah batu runtuh dengan perlahan, mereka cepat cepat keluar saat mau keluar kaki
+        lalan tertimpa batu, bintang pun menolong lalan hingga akhirnya mereka bisa keluar, mereka pun kembali ke desa.
+    </string>
+    <string name="fiction_satu_8">
+        Saat pagi hari bintang menunggu mbah jambrong di lapangan desa, mbah jambrong pun datang,
+        bintang berkata kerass “heey.. kamu kesini saya tidak takut kepadamu!” kata bintang.
+        mbah jambrong pun menghampirinya, mereka bertempur dengan sangat menegangkan.
+        Saat itu bintang tertindas tangan mbah jambrong, dengan darah yang sedikit mengalir,
+        bintang dengan penuh amarah lansung mengangkat tangan mbah jambrong dengan kuatnya,
+        bintang pun langsung menusukan pedang nagasaki ke kening mbah jambrong dengan berkata “matilah kau mbah jambrong”.
+        krekk… darah berkucur deras mbah jambrongpun mati… Saat itu bintang terlempar kemnbali ke kamarnya.
+    </string>
+    <string name="fiction_satu_9"></string>
+    <string name="fiction_satu_10"></string>
+    <string name="fiction_satu_11"></string>
+    <string name="fiction_satu_12"></string>
+
+    <string name="writer_fiction_3">
+        Cerpen Karangan: Sisia Satya
+        Kategori: Cerpen Anak, Cerpen Fantasi (Fiksi)
+        Lolos moderasi pada: 25 January 2020
+    </string>
+    <string name="fiction_tiga_1">
+        Suatu hari, ada seorang gadis kecil yang bernama vany, ia sangat suka dengan bunga dan merawat berbagai tumbuhan.
+        Saat ia ingin pergi ke kebun rumahnya (yang terletak di belakang rumahnya) ia melihat ada hewan kecil yang berterbangan kesana-kemari dan bersembunyi, vany penasaran apakah itu kupu-kupu atau capung, karena penasaran vany-pun berhasil menangkapnya.
+    </string>
+    <string name="fiction_tiga_2">
+        Saat ia menaruh hewan kecil itu di suatu pot kaca, ia melihat dengan jelas, ternyata itu bukanlah hewan kecil tetapi peri kecil, peri itu ketakutan dan menutup wajahnya dengan sayapnya.
+    </string>
+    <string name="fiction_tiga_3">
+        “Wuahh… Aku dapat menangkap peri!” katanya sambil tersenyum-senyum
+    </string>
+    <string name="fiction_tiga_4">
+        “Hai.. Peri kecil siapa namamu?” tanya vany dari balik pot kaca itu.
+        “Aku tidak mempunyai nama!” kata peri kecil itu tetapi suaranya sangat kecil dan vany tidak begitu jelas mendengarnya.
+    </string>
+    <string name="fiction_tiga_5">
+        Saat vany ingin memberi tau pada ayahnya peri itu menangis “hihihi… jangan sebarkan aku tolong!!” Suara tangisan kecil dari peri itu.
+        “Ah… maaf aku lupa, aku akan menjadikan ini rahasia! ok” kata vany sambil mengedipkan matanya.
+        “Terimakasih, sekarang tolong lepaskan aku ya!” suruh peri kecil itu sambil merapatkan kedua tangannya.
+        “Baiklah, tapi kamu jangan keluar lagi ya! nanti dilihat orang lain!” nasihat vany pada peri kecil itu.
+    </string>
+
+
+    <string name="fiction_empat_1">
+        Duduk di kursi kamarku, sangat merasa bosan hari ini, “huft.., apa yang akan kukerjakan hari ini…”,
+        terlintas di benakku, kemudian kucoba membuka salah satu media sosial favoritku di telepon genggam,
+        aku pun menjangkaunya, berada tepat di atas meja di depan tempat aku duduk.
+        Mulai melihat-lihat sesuatu yang ada di beranda teman, kerabat dan orang-orang yang hanya kenal lewat dunia maya.
+    </string>
+    <string name="fiction_empat_2">
+        Sampai aku berhenti pada suatu kiriman dari teman satu kelasku bernama Ani.
+        Tidak ada yang aneh dengan kiriman itu, hanya foto Ani dan teman-temannya yang lain di sebuah jalan yang kiri dan kanan jalan itu terdapat sawah dan padi bewarna kuning,
+        lalu ada pondok tua di tengah-tengah sawah itu yang membuatku seakan-akan pernah melihatnya, bahkan berada di jalan itu.
+    </string>
+    <string name="fiction_empat_3">
+        Lantas, tanpa berpikir panjang, aku langsung menghubungi Ani, kebetulan nomornya telah kusimpan dua minggu lalu.
+        “Ani, hallo Ani…”, entah mengapa aku sangat ingin tau tempat itu, “iya niki, ada apa..?”, jawab Ani,
+        “aku ingin tau di mana tempat kamu berfoto dengan empat sahabatmu yang kamu kirim dua minggu lalu, bisa beri tahu aku dimana tempatnya?”, tanyaku tergesa-gesa.
+        “Itu tepat di jalan menuju rumahku nik”, setelah ani mengatakan demikian, aku langsung menutup telepon dan bersegera menuju rumah ani dengan sepeda motor ayahku.
+    </string>
+    <string name="fiction_empat_4">
+        Aku mengingat kembali, dimana aku mengenal tempat itu, kemudian terlintas di pikiranku pada sebuah mimpi yang pernah kualami.
+        Sekarang aku ingat, aku pernah berada di sana, pada saat aku bermimpi, lalu kenapa tempat ini di mimpi terasa begitu nyata?, pertanyaan itu terlintas di otakku.
+    </string>
+    <string name="fiction_empat_5">
+        Tak terasa aku telah tiba tepat di jalan itu, lalu ku parkir motorku di tepi jalan,
+        melihat daerah sekeliling dan aku pun mulai berjalan menyusuri pematang sawah menuju pondok yang membuat pikiran terus mekirkan pondok itu,
+        ada apa di dalam pondok ini?, otakku terus bertanya-tanya.
+    </string>
+    <string name="fiction_empat_6">
+        Langkahku pun terhenti di depan pondok itu, bangunannya sudah sangat tua, kumuh, dan tidak terawat.
+        Tepat di tengah pondok tua itu terdapat sumur, rasa penasaranku pun muncul pada sumur yang sama tidak terawatnya dengan podok itu.
+        Kudekati sumur itu, langkah demi langkah, lalu kulihat ke dalam sumur itu, seperti lubang hitam yang tidak ada ujungnya.
+        Tiba-tiba ada sesuatu yang sangat kuat menarikku ke dalam sumur itu, aku tidak bisa memberontak sama sekali,
+        sesuatu yang sangat kuat itu menarikku sampai ke ubun-ubun, hingga semuanya pun menjadi gelap di pandanganku.
+    </string>
+    <string name="fiction_empat_7">
+        Langkahku pun terhenti di depan pondok itu, bangunannya sudah sangat tua, kumuh, dan tidak terawat.
+        Tepat di tengah pondok tua itu terdapat sumur, rasa penasaranku pun muncul pada sumur yang sama tidak terawatnya dengan podok itu.
+        Kudekati sumur itu, langkah demi langkah, lalu kulihat ke dalam sumur itu, seperti lubang hitam yang tidak ada ujungnya.
+        Tiba-tiba ada sesuatu yang sangat kuat menarikku ke dalam sumur itu, aku tidak bisa memberontak sama sekali,
+        sesuatu yang sangat kuat itu menarikku sampai ke ubun-ubun, hingga semuanya pun menjadi gelap di pandanganku.
+    </string>
+    <string name="fiction_empat_8"></string>
+    <string name="fiction_empat_9"></string>
+    <string name="fiction_empat_10"></string>
+    <string name="fiction_empat_11"></string>
+    <string name="fiction_empat_12"></string>
+
+
+
+    <string name="fiction_lima_1">
+        Nayla baru saja mempunyai kamar baru. Kamarnya bernuansa biru, karena Nayla sangat menyukai warna biru.
+        Dan ia dibelikan ayahnya sebuah lemari berukuran sedang.
+    </string>
+    <string name="fiction_lima_2">
+         Saat malam hari, Nayla mendengar suara berisik dari dalam lemarinya.
+        Brak bruk brak bruk! “Ada apa sih di dalam?” Nayla mengucek ngucek matanya.
+    </string>
+    <string name="fiction_lima_3">
+        Karena penasaran, Nayla membuka lemari itu. Tapi anehnya, di dalam lemari itu berujung sebuah tangga.
+        “Ih kok aneh banget sih?!” Nayla pun menaiki tangga itu.
+    </string>
+    <string name="fiction_lima_4">
+        Setelah menaiki satu persatu tangga itu. di depan Nayla ada sebuah pintu. Pintu itu dibuka oleh Nayla.
+        Ketika dibuka, ia tiba di sebuah taman. Indah sekali, banyak bunga bunga dan ada rusa, kelinci, serta jerapah di sana.
+        Nayla bingung.
+    </string>
+    <string name="fiction_lima_5">
+        “Hai Nayla!” ada gadis sebaya Nayla yang memakai gaun putih menggeret tangan Nayla.
+        “Eh!” ternyata, Nayla dibawa ke sebuah tempat makan. Di situ ada sebuah meja dan dua tempat duduk.
+        Di sana sudah ada makanan makanan dan minuman minuman lezat. Nayla dan anak itu pun makan bersama.
+    </string>
+    <string name="fiction_lima_6">
+        Selesai makan, mereka berdua duduk di atas perahu di atas danau yang indah.
+    “Sebenarnya aku ada di mana?” tanya Nayla.“Kamu ada di dalam lemari! Aku adalah penunggu tempat ini. Tempat ini khusus untuk anak baik seperti kamu” jelas anak itu panjang lebar.
+    “Ohh gitu, oh ya nama kamu siapa?”
+    “Nama ku Alma” jawabnya.
+    </string>
+    <string name="fiction_lima_7">
+        “Sudah waktunya kamu pulang, Nay” kata Alma.
+        “Ok, byee!!” kami pun berpisah.
+
+        Di kamar, aku pun kembali tertidur. Aku berjanji, tak akan membocorkan pengalamanku ini pada siapa siapa.
+    </string>
+    <string name="fiction_lima_8"></string>
+
+    <string name="fiction_enam_1">
+        Suatu hari ada seorang anak bernama Bunga sedang bermain di taman halaman rumahnya.
+        Dia bermain bersama temannya yang bernama Tintia. Saat itu mereka sedang bermain sepeda di sekeliling taman dengan hati yang senang.
+        Tidak beberapa lama kemudian, merekapun berhenti bermain sepeda karena kelelahan.
+        Setelah lama bermain sepeda, merekapun duduk di kursi taman dan beberapa menit kemudian merekapun tertidur.</string>
+    <string name="fiction_enam_2">
+        Saat Bunga terbangun ia pun terkejut karena pemandangan di sekelilingnya berubah.
+        “Ada di mana aku, bukankah aku dan Tintia tadi berada di taman?” ucap Bunga dengan terheran-heran.
+        Dia pun langsung membangunkan Tintia yang sedang tertidur di sampingnya, “Tintia, ayo bangun” ucap Bunga dengan suara yang keras.
+        “Ada apa, ada apa?” ucap Tintia sambil mengucek-ucek matanya.
+        Saat Tintia melihat pemandangan yang ada di sekitarnya, dia pun terkejut dan bertanya-tanya kepada Bunga.
+        “Bunga, kita ada mana? Mengapa kita ada di sini?” ucap Tintia dengan terheran-heran.
+        Tetapi Bunga tidak bisa menjawab pertanyaan Tintia, karena Bungapun tak tahu kenapa mereka berada di sini dan bagaimana mereka di sini.
+        Beberapa saat kemudian merekapun mulai tenang dan melihat di sekeliling, mereka melihat pohon yang berbuah kue.
+        Karena penasaran, merekapun berusaha mengambil buah yang berbentuk kue itu.
+    </string>
+    <string name="fiction_enam_3">
+        Tintia pun berhasil mengambilnya. Saat Tintia mencoba kue itu, ternyata kue itu mempunyai rasa pisang yang manis.
+        Saat Bunga melewati rerumputan, rerumputan itu harumnya seperti pisang.
+        Dia pun mencoba mencabut rumput itu, saat dia mencoba memakannya ternyata rumput itu berasa pisang juga.
+        “Sebenarnya kita ada di mana?” ucap Bunga ke Tintia. “Aku juga gak tahu” ucap Tintia kepada Bunga.
+        “Tadi kamu mencoba kue itu dan rasanya seperti pisang, aku juga mencoba rumput itu rasanya juga seperti pisang”.
+    </string>
+
+    <string name="fiction_enam_4">
+        “Jangan-jangan kita berada di…” ucap Bunga, lalu mereka berkata serempak “Dunia Pisang!!!”
+        mereka pun baru menyadari bahwa di sekelilingnya dipenuhi dengan benda-benda yang berhubungan dengan pisang.
+        Dari pohon kue dengan rasa pisang, rumput dengan rasa pisang. Taman bunga yang tidak berbunga seperti biasanya,
+        melainkan bunganya menyerupai pisang dan mereka juga baru menyadari bahwa dunia tempat berada sekarang didominasi dengan warna kuning seperti warna pisang.
+        Merekapun bingung dan tidak percaya bahwa mereka terperangkap dalam suatu jaring dan terangkat ke udara,
+        mereka dilempari suatu benda dan benda itu mengeluarkan gas dan beberapa saat kemudian merekapun pingsan.
+        Sesuatu telah menangkap mereka dan membawa mereka ke sesuatu tempat yang mereka tidak ketahui.
+
+    </string>
+    <string name="fiction_enam_5">
+        Saat mereka terbangun dari pingsan, mereka melihat satu kerajaan yang megah dan mewah dan mereka di bawa ke hadapan seseorang.
+        Saat mereka melihat orang yang di hadapan, mereka berdua terkejut. Ternyata orang itu adalah Ibunya Bunga,
+        “hah, ibuuu” ucap Bunga dengan terkejut. “Hah, ibuuu” ucap orang yang berada di hadapan Bunga dengan terkejut,
+        “kau mirip sekali dengan wajah ibuku” ucap bunga denga malu.
+    </string>
+    <string name="fiction_enam_6">
+        “Ratu, apakah tujuan anda membawa mereka berdua ke dunia kita” ucap seorang pengawal Ratu yang berbentuk pisang.
+        “Saya membawa mereka berdua ke dunia kita, karena saya ingin mereka membawakan dongeng untuk anak-anak di desa kecil dekat hutan.
+        Agar anak-anak di desa tersebut merasa senang“.
+        “Tapi, bagaimana kami berdua bercerita kepada anak-anak yang berada di desa?” ucap Tintia dengan bingung.
+        “Saat kalian kecil pasti kalian didongengkan cerita sebelum tidur oleh ibu kalian.
+        Bagaimana ibu kalian bercerita, begitu juga kalian bercerita kepada anak-anak di desa” ucap Ratu kepada mereka berdua
+        dan Ratu pun membawa mereka ke desa di dekat hutan itu.
+    </string>
+    <string name="fiction_enam_7">
+        Semua penduduk di desa itu berbentuk pisang yang kuning dan mereka pun mulai bercerita kepada anak-anak yang berada di desa tersebut.
+        Satu jam kemudian merekapun telah selesai menjalankan perintah Ratu dan mereka kembali ke kerajaan bersama para pengawal yang berbentuk pisang.
+        Saat mereka telah sampai di kerajaan merekapun bertanya kepada Ratu
+        “perintah Ratu telah kami laksanakan, sekarang apa yang harus kami berdua kejakan” ucap Bunga kepada Ratu
+        “sekarang kalian boleh pergi ke dunia kalian dan saya akan memberikan hadiah kepada kalian berdua”
+        “apa hadiahnya Ratu?” ucap Bunga dan Tintia dengan bersemangat
+        “kalian akan saya berikan gelang lucu yang berhiaskan manik-manik berbentuk pisang yang lucu” ucap Ratu kepada mereka berdua
+        sambil memberikan gelang itu ke tangan mereka masing-masing.
+        “terima kasih Ratu” ucap mereka dengan penuh keceriaan dan Ratu pun mengembalikan mereka ke taman tempat mereka bermain dengan cara menutup mata mereka masing-masing.
+    </string>
+    <string name="fiction_enam_8">
+        Saat mereka berdua terbangun dari kursi taman,
+        mereka telah melihat hari sudah sore dan mereka pun saling mengucapkan salam perpisahan dan mereka pun kembali ke rumah mereka masing-masing.
+        Mereka pergi dengan keadaan ceria sambil membawa gelang dari Ratu.
+    </string>
+
+    <string name="action_satu_1">
+        Baru pernah aku beli sekotak kue dengan harga sangat mahal.
+        Tapi tidak apa-apa lah. Daripada nanti aku tidak jadi beli malah penjualnya marah.
+        Soalnya tadi sudah kutawar banyak kali dengan harga yang menurutku terjangkau, tapi tetap saja tidak mau.
+        Biarlah, yang penting anakku akan senang di hari ulang tahunnya yang ke dua belas!
+
+    </string>
+    <string name="action_satu_2">
+        Toko kue itu tak jauh dari terminal.
+        Sehingga aku bisa langsung pulang tanpa berjalan jauh seperti biasanya.
+        Biasanya aku dari kantor berjalan jauh menuju terminal. Kan ini hari Minggu jadi aku tidak ke kantor.
+        Aku langsung saja menyeberang menuju terminal, menaiki angkutan kota, dan duduk sembari menunggu si sopir menjalankan mobilnya.
+        Katanya penumpangnya baru sedikit.
+    </string>
+    <string name="action_satu_3">
+        Jarak rumahku dari sini tidak begitu jauh sih.
+        Paling hanya sepuluh menit naik angkutan kota ini.
+        Biasa lah, saking seringnya naik angkutan, aku sampai hafal nama para sopir itu hingga warna handuk di belakang leher yang mereka kenakan.
+        Seberapa cepat dia mengemudikan angkutannya, dan lainnya. Setiap hari mereka mewarnai hariku dari pulang kantor.
+    </string>
+    <string name="action_satu_4">
+        Tapi untuk yang kali ini, ketika angkutan sedang menunggu di terminal, aku tidak mengetahui siapa sopirnya.
+        Rasanya asing bagiku, karena aku baru pernah melihat angkutan yang ini dan sopirnya.
+        Dandanannya sama sih, handuk di belakang leher, celana panjang yang lututnya bolong, sebuah korek api dan sebungkus rokok di belakang setir mobilnya, dan sandal jepit yang dipakai.
+        Mungkin dia sopir baru di sini. Tapi tak apa, itung-itung aku menambah kenalan sopir angkutan.
+    </string>
+    <string name="action_satu_5">
+        Kapan bakalan jalan, penumpangnya baru tiga orang.
+        Aku ingin protes pada sopir itu, tapi aku belum kenal seperti sopir lainnya.
+        Takutnya sopir yang baru ini orangnya mudah marah, dan lainnya.
+        Setahuku sopir di sini semuanya humoris, tapi tidak tahu untuk yang satu ini. Makanya aku tidak jadi protes menyuruh angkutan itu jalan.
+    </string>
+    <string name="action_satu_6">
+        Aneh. Banyak sopir di luar yang sudah menjalankan angkutannya dan menyapanya.
+        Namun si sopir ini diam saja dan tidak membalas sapaan dari mereka.
+        Dan yang lebih aneh lagi, sopir ini memiliki kernet yang berada di samping pintu keluar.
+        Memang seorang kernet memudahkan sopir bekerja, tapi hampir semua sopir di terminal ini tidak ada kernetnya.
+        Hanya angkutan kota ini. Aku saja hafal kok. Masih bisa aku mengatakan maklum karena dia orang baru. Pokoknya aneh.
+    </string>
+    <string name="action_satu_7">
+        Kue itu aku taruh saja di bawah kursi agar aman.
+        Tidak kupegang dan kupangku di atas pahaku. Bukan apa-apa sih.
+        Aku khawatir saja akan segala keanehan yang ada di angkutan kota itu. Auranya sudah berbeda.
+        Dari awal aku memijakkan kaki di tangga angkutan itu, hingga sekarang.
+        Sopir itu selalu diam membisu, hanya mengatakan kita tunggu di terminal dulu karena penumpangnya baru sedikit tadi.
+    </string>
+    <string name="action_satu_8">
+        “Kemana bu?” kata si kernet yang sedang berada di luar.
+        “Pasar salak. Sampai ke sana kan?”
+        “Sampai bu, tenang saja.”
+        “Berapa ya?”
+        “Dua ribu lima ratus saja”
+        “Ya sudah, saya naik.”
+        Seorang nenek-nenek, ya belum tua amat lah. Anting-anting yang mencolok, sebuah ponsel android di tangannya, dengan rambut yang diikat satu tidak sampai bahu. Lebih aneh lagi bukan? Atau aku turun saja dari sini dan mencari angkutan kota lain?
+        Tapi tidak. Berpikir positif, berpikir positif. Memangnya mau ada apa!
+        “Pasar, pasar! Yo… yo… Pasar!” teriak si kernet itu.“Alun-alun sampai, alun-alun sampai!”
+        “Taman kota, taman kota!”
+    </string>
+
+    <string name="action_dua_1">
+        Pada suatu hari, di dalam sebuah rumah yang terdiri dari anak dan ayah.
+        Yang terletak di Distrik 7, Kota Dawn.
+        Anak tersebut bernama Susi, ia selalu berselisih dengan ayahnya bahwa ia akan sekolah di Distrik 14 yaitu sekolah di bidang farmasi, dan ayahnya tidak setuju akan hal itu.
+        Ayahnya ia ingin sekolah di Distrik 8 di bidang ilmu geologi, dan sekolah tersebut dekat dengan rumah mereka.
+        Ayahnya ingin ia sukses menjadi seorang badan geologi yang ahli seperti ayahnya yang sekarang pensiunan BGPBKDU (Badan Geologi Penanggulangan Bencana Kota Dusk) dan bisa menyelamatkan orang lain dengan keahlian tersebut.
+        Ayahnya tidak mau kalau anak semata wayangnya menjadi tidak sukses karena sekolah farmasi merupakan sekolah yang lumayan sulit.
+    </string>
+    <string name="action_dua_2">
+        Ibunya meninggal dunia saat ia berumur 1 tahun 9 bulan.
+        Ibunya meninggal dikarenakan aktivitas vulkanik di kota Dusk, saat itu rumah mereka dekat dengan Gunung Darkhölmes, ibunya saat itu sedang berenang di belakang rumah, kolam tersebut air semakin panas, ia curuga akan terjadi sesuatu.
+        Dan benar, kolam tersebut muncul lava, lava tersebut keluar dengan sangat cepat, ia bahkan tak sempat melarikan diri karena ia berada di tengah kolam tersebut, ayahnya mengetahui hal tersebut saat dia ingin memberikan handuk kepada ibunya, ia kaget ada lava yang muncul di kolam renang dan ada tangan yang hampir terbakar oleh lava tersebut.
+        Ayahnya melihat ke atas gunung, dan benar, ia melihat sekumpulan asap yang tebal, ia menduga bahwa Gunung Darkhölmes kembali melakukan aktivitas vulkanik.
+        Kemudian ia melapor ke BGPBKD dan segera pindah ke kota Dawn.
+    </string>
+    <string name="action_dua_3">
+        Pada pukul 2.30 pm, Evans, yaitu ayahnya Susi sedang ingin ke tempat kerjanya dahulu yaitu BGPBKDU.
+        Untuk mengenang masa lalunya dan bersenda gurau dengan teman lamanya di tempat itu.
+        Dan sampai di tempat itu Evan kemudian menhampiri salah satu teman terbaiknya yaitu Hans.
+        Hans 10 tahun lebih muda dari pada Evans.
+        Hans memegang kendali Seismograf, dan Evans memegang semua kendali yang ada dalam tempat tersebut dalam arti ia menjadi pemimpin dalam tempat kerja tersebut.
+    </string>
+    <string name="action_dua_4">
+        Hans teringat ketika Evans hobi memakan pisang dan menyisakan setengah pisang tersebut di kantongnya
+        “Hei, Evans. Saya teringat ketika kau kuberi pisang dan menyisakan setengah gigitan pisangmu di kantongmu, karena kita terlalu sibuk dengan pekerjaan kita.”
+        “Kau masih teringat akan hal itu ya?, dan saya pernah memberimu setengah dari gigitanku itu.”
+        “Benarkah?, seingatku kau tidak memberiku setengah pisangmu itu, tapi kau memberikannya kepada Dani.” Hans menjawab sambil menengok ke arah Dani.
+        Dani mejawab, “Hah? aku? kenapa aku?, aku kenapa?.”
+        “Hahaha, Dani Dani, sejak dahulu kamu itu selalu saja telat pemikiran, jadi kamu itu selalu mejadi korban bully-an dari karyawan di tempat ini.”
+        Dani hanya senyum kecil dan melajutkan pekerjaannya.
+        “Vans, kau dahulu menyimpan pisangmu sampai berhari-hari, dan walaupun pisang itu berhari-hari kau tetap memakannya.” Dani melanjutkan bicara. Dan mereka tertawa bersama-sama.
+    </string>
+    <string name="action_dua_5">
+        Satu jam berikutnya yaitu jam pulang bagi semua karyawan dalam tempat itu.
+        Karyawan tersebut ada yang ingin ke pasar, istirahat di rumah, makan di restoran, dan ada juga yang mendaki gunung.
+        Salah satu orang yang ingin mendaki gunung adalah Mari, Jaret, Mai, dan Zan.
+        Mereka ingin mendaki Gunung Darkhölmes, karena di waktu pagi matahari terlihat indah.
+    </string>
+    <string name="action_dua_6">
+        Ketika mereka sampai di tengah-tengah jalan, mereka istirahat di pos terdekat.
+        Saat Zan ke toilet, Zan merasakan air dalam kran toilet tersebut terasa panas dan muncul seperti abu dari aktivitas vulkanik.
+        Zan merasa khawatir akan hal tersebut. Karena air tersebut berasal dari puncak gunung. Kemudian Zan memberitahu Mari dan yang lain.
+        Karena mereka sangat khawatir, mereka akhirnya tidak jadi naik ke puncak, dan mereka ingin meneliti aktivitas vulkanik di Gunung Darkhölmes.
+    </string>
+    <string name="action_dua_7">
+        Kemudian mereka melapor kepada ketua BGPBKDU, Riccardo atau biasa dipanggil Pak Rick.
+        Pak Rick tidak percaya bahwa Gunung Darkhölmes kembali aktif lagi.
+        Karena sudah 20 tahun lalu Gunung Darkhölmes, menunjukan letusan yang paling besarnya.
+        Kemudian Evans datang dan menjelaskan bahwa itu bisa terjadi lagi.
+        Untuk bisa membuktikannya mereka menggunakan seismograf untuk daerah Kota Dusk. Dan seismograf tersebut tidak menunjukan aktivitas vulkanik.
+    </string>
+    <string name="action_dua_8">
+        “Benar kan. Itu tidak mungkin bahwa Gunung Darkhölmes bisa aktif kembali. Itu hanya akal-akalan Zan dan yang lain saja.”
+        “Tidak pak, kami tidak mengada-ada, kami yakin bahwa ada aktivitas vulkanik di Gunung Darkhölmes.” Zan menjawab dengan yakin.
+    </string>
+    <string name="action_dua_9">
+        Pada suatu hari di Distrik 7, Kota Dawn.
+        Susi merasa senang karena ayahnya pergi ke keluar kota untuk mengunjungi tempat kerjanya dahulu.
+        Susi kemudian pergi ke rumah temannya ke distrik 13, yang dekat dengan perbatasan Kota Dusk.
+        Saat Susi ingin mengetuk pintu temannya, kemudian ada gempa kecil yang kira-kira bersekala 3.5 Richer.
+        Orang yang ada di dalam rumah tersebut keluar rumah untuk menyelamatkan diri.
+        Kemudian gempa tersebut reda. Susi kemudian diperkenankan masuk ke dalam rumah temannya.
+    </string>
+    <string name="action_dua_10">
+        Ketika berita bahwa sebagian kota Dawn terkena gempa kecil tersebut sudah menyebar ke seluruh kota, ayahnya Susi merasa khawatir akan anaknya tersebut.
+        Kemudian Evans atau ayahnya Susi ingin kembali ke Kota Dawn.
+        Setelah kembali ke Distrik 7, Kota Dawn, Evans kaget, karena Susi tidak berada di rumah. Evans menelepon Susi.
+        Dan Susi mengatakan bahwa ia baik-baik saja dan berada di rumah temannya. Evans merasa lega.
+    </string>
+
+    <string name="action_tiga_1">
+        Aku menyesal.
+        Karena aku memulai semua ini.
+        Aku bisa lihat, teman temanku yang wajahnya pucat, takut. “maaf. Aku telah memulainya.” Sesalku. “tak perlu. Ini sudah terjadi, Rain.
+        Lagipun kita sudah aman” Rasa bersalahku terus muncul. Namun sahabat sahabatku membuat diriku tegar.
+        Aku yang memulai permainan ini, aku rasa akulah yang patut mengakhirinya.
+    </string>
+    <string name="action_tiga_2">
+        Aku telah mengajak sahabatku bermain permainan yang ‘menurutku’ seru ini.
+        Werewolf namanya. Kami mainkan saat bulan purnama merah pukul sebelas malam.
+        Memang, permainan ini seru. Namun Brenda mulai berperilaku aneh. Aku, sang moderator, pastilah tahu kalau dia adalah werewolf.
+        Dia gelisah dan takut. Hingga saat Brenda tereliminasi, tepatnya pukul duabelas lebih tiga puluh. Gerakannya tak terkontrol.
+        Kulit putihnya ditumbuhi bulu yang lebat. Mata biru lautnya berubah menyerupai serigala yang kelaparan. Kami lari menjauh darinya saking paniknya.
+    </string>
+    <string name="action_tiga_3">
+        “Brakk!!” pintu didobraknya keras.
+        Kami sekarang bersembunyi di Brankas rumah Cleo, rumah tempat kami bermain permainan terkutuk ini.
+        Tangannya yang ternyata lebih kuat dari pintu besi itu menerobos masuk. Kami panik.
+        Aku bisa lihat wajah cantik glory, gadis amerika yang amat rupawan itu. Dia memejamkan matanya.
+        Wajahnya pucat, keringatnya bercucuran. Diikuti Cleo yang ikut memejamkan mata. Setelah itu ervi dan gwenn.
+        Aku ikut memejakan mata. Menunggu ajal yang akan tiba. Aku bisa mendengar langkah kakinya. Sesaat kemudian terdengar geraman yang memekakkan telinga.
+    </string>
+    <string name="action_tiga_4">
+        Aku membuka mata setelah mendengar bunyi benda jatuh.
+        Itu… Brenda! Dia tergolek lemah di hadapan kami. Kupikir dia telah menjadi Brenda yang kukenal.
+        Kami memapahnya menuju kamar yang disediakan. Kami telah lupa akan kejadian tadi.
+        Kami menginap dan tidur di kamar yang sama. Sebelumnya aku melirik arloji pemberian bunda. Pukul tiga fajar.
+    </string>
+    <string name="action_tiga_5">
+        Esok hari yang cerah. Tak kulihat Brenda dari tempatnya.
+        Kubangunkan cleo dan yang lain. Kami mencari Brenda dengan penuh rasa khawatir.
+        Oh! itu dia! Menangis di taman belakang. Aku harap ia mau membagi info.
+    </string>
+    <string name="action_tiga_6">
+        Dia digigit seekor werewolf saat berburu di daerah selatan.
+        Tak ada yang tahu bahwa pembunuh yang dicari polisi adalah dia. Saat bulan merah dia akan lepas kendali.
+        Menggigit dan membunuh. Aku baru ingat, tadi malam purnama merah terjadi hingga pukul tiga fajar.
+        Aku juga baru sadar kalau malam tadi Brenda sempat menggigitku.
+
+        Ini purnama merah. Badanku terasa panas, tubuhku mulai tumbuh bulu. AKULAH WEREWOLF, I WILL KILL YOU!!
+    </string>
+
+    <string name="action_empat_1">
+        Malam ini adalah malam yang menentukan segalanya.
+        Sesuatu akan berakhir malam ini, entah itu aku, kami, atau pun mereka.
+        Ini adalah saat-saat terakhir untuk kita semua, kematian adalah takdir yang terpampang jelas di hadapan kami.
+    </string>
+    <string name="action_empat_2">
+        Aku berdiri di bawah gempuran bola api di Liendholm, ngarai kehijauan yang kini menjadi ladang pembantaian.
+        Saat ini, tengah terjadi sebuah perang penentuan.
+        Pasukan Saxon yang terkenal akan kebarbaran dan kekejaman mereka yang tak kenal ampun, berusaha merebut wilayah yang kami cintai ini dari kerajaan Lothrix, dimana aku mengabdi menjadi seorang prajurit biasa.
+        Tetapi, sepertinya mengabdi bukan kata yang tepat.
+    </string>
+    <string name="action_empat_3">
+        Saat ini, pertempuran sudah berlangsung larut-larut sampai malam pun tiba.
+        Kedua kubu tidak memberikan serangan telak sama sekali.
+        Kami kira, semangat tempur dan moral musuh sudah terkuras karena jelas mereka hanyalah kaum barbar yang berjumlah sedikit, bukan pasukan terlatih seperti kami.
+        Rupanya itu hanyalah siasat semata. Kaum Saxon yang berpakaian serba hitam itu mengeluarkan senjata pamungkas mereka; puluhan pelontar bola api yang disembunyikan di balik pepohonan lebat di belakang mereka dan mulai menghujani kami.
+        Aku hanya berdoa supaya kelak kami bisa pulang kembali ke barak-barak kami yang nyaman seperti biasanya.
+    </string>
+    <string name="action_empat_4">
+        “Selagi panah-panah dan bola-bola mereka berjatuhan dari langit, tetaplah bertahan dan jangan tinggalkan posisi kalian!” Seorang sersan berseru di atas kudanya di sampingku, Frederick namanya.
+        Kumisnya yang tebal menjadi ciri khasnya.
+        Tak lama kemudian, dia langsung menerjang maju ke arah hiruk pikuk di depan sambil mengacungkan tombak.
+        Sesaat kemudian, dia menghilang begitu saja ditelan kehebohan.
+    </string>
+    <string name="action_empat_5">
+        Gagah berani memang, rela mati demi kerajaan yang dicintainya.
+        Beda denganku, aku hanyalah seorang pemuda kurus yang penakut.
+        Setelah kabur dari rumahku yang jauhnya ribuan kilometer dari tempat ini dan datang melamar sebagai prajurit rendahan, aku kira aku akan menghabiskan hidupku dengan bersenang-senang dan bersenda gurau sepanjang hari.
+        Rupanya tidak. Ketika dihadapkan dengan situasi sebenarnya, mental, hati, dan jiwamu, pasti akan menciut.
+    </string>
+    <string name="action_empat_6">
+        Sepanjang pagi, siang, dan sore, aku tidak membunuh seorangpun dari pihak lawan.
+        Aku hanya berlarian kesana kemari, tidak peduli dengan beratnya baju zirah yang membebani tubuhku atau keringat yang membanjir di kulitku.
+        Aku benar-benar tidak siap. Aku hanyalah seorang pecundang. Ketika teriakan bergemuruh kaum Saxon yang khas dan derakan mesin-mesin kayu terdengar dari kejauhan, disitulah aku tahu kalau kami semua akan tamat.
+    </string>
+
+    <string name="action_lima_1">
+        Orang yang merasa terbidik, dengan cekatan memutar badan ke belakang sambil mengepalkan tangan kanan berbalut besi.
+        Dengan memfokuskan tenaga di kepalan, dia mencoba menepis peluru yang menghampiri secepat kilat.
+        Dengan timing akurat, dia mampu mengenai timah panas itu dan dibelokkan ke bawah. Peluru itu pun berubah arah dan langsung menancap ke tanah.
+    </string>
+    <string name="action_lima_2">
+        “AW!” teriak orang itu. Karena hukum aksi-reaksi, tangan kanan dia terpental ke belakang.
+        Kelihaian dia pun diperlihatkan. Dengan memanfaatkan kondisi, dia memutar tubuh sekali lagi searah tangannya.
+        Sambil menjulurkan lidah, dia menyeimbangkan pijakan di atas jalan, diikuti refleks kaki ke depan.
+        Hal ini membuat dia tetap berlari dengan cepat menjauhi penembak tersebut.
+    </string>
+    <string name="action_lima_3">
+        “Siaaall!!” teriak penembak mulai meletuskan tembakan beberapa kali.
+        Namun, peluru terus meleset sampai amunisi habis.
+        Dengan kondisi letih, dan kaki yang tidak berkompromi untuk bergerak maksimal, dia pun menyerah dengan situasi gawat tersebut.
+    </string>
+    <string name="action_lima_4">
+        “Bagaimana? Kau mampu melumpuhkannya?” suara dari mikrophone kecil di telinga sang pengejar.
+        “Dia mengejekku!” kata dia terengah-engah.
+        “Aku telah menghubungi bantuan. Tetap kejar dia!” kata mikrophone.
+        Namun, orang yang dikejar, tahu-tahu sudah menaiki sepeda motor CB 150R hitam meninggalkan dia.
+        Dia pun hanya melihat wanita itu melambaikan tangan pada polisi muda itu.
+    </string>
+    <string name="action_lima_5">
+        “Dia pergi ke arah Timur!” kata polisi itu.
+        “Oke! Kami akan menyegatnya!” kata mikropone.
+        “CB 150R hitam.”
+        “Oke!” tutup seseorang dari mikrophone itu.
+        Suasana pun langsung ramai, mencekam dan berantakan. Dengan kendaraan roda dua dan empat memenuhi bundaran jalan di kota itu.
+    </string>
+    <string name="action_lima_6">
+        Beberapa menit berselang, beberapa polisi mendatangi TKP dengan sepeda motor.
+        Dengan sigap dan cekatan, mereka mengatur arus lalu lintas demi mengurai padatnya kendaraan.
+    </string>
+    <string name="action_lima_7">
+        “Bagaimana kondisinya?” tanya seseorang menghampiri polisi muda di bundaran.
+        “Ini akan memakan waktu cukup lama.” kata dia, sambil mengarahkan beberapa kendaraan.
+        “Aku akan mengatasi kendaraan di sana!” kata dia menggigit peluit.
+        “Tidak! Kau di sini saja! Aku akan mengejar wanita itu.” kata polisi muda itu meninggalkan tugas.
+        “Apa? Hei! Selesaikan masalah di sini dulu!” teriak polisi itu. Namun, bermodal kata-kata tidak mampu menghentikan tekad polisi muda itu. Dia pun menghilang menyusuri kerumunan kendaraan.
+    </string>
+    <string name="action_lima_8">
+        Selagi berjalan, polisi muda tersebut terus memikirkan wanita itu.
+        Dia mencari fakta, alasan apa wanita itu melakukan tindakan buruk.
+        Seleksi setiap perbuatan yang muncul dalam ingatan terus terbayang. Kebiasaan, aktifitas, tingkah laku, bahkan kepribadian dari seorang wanita yang familiar bagi dia memenuhi pikiran pembeban otak.
+        Sampai tanpa sadar, dia telah kehilangan fokus dalam berpikir. Menumpu tatapan kosong akan apa yang dia lihat. Lamunan.
+    </string>
+
+    <string name="action_enam_1">
+        Aku mulai pusing dengan setumpuk barang elektronik di sudut kamarku yang tidak terpakai, membuat satu robot saja susahnya minta ampun padahal aku harus membawanya besok, aku mencoba kembali memikirkan apa saja yang salah dengan robotku ini,
+        “ahh!! dasar sampah!!” kataku mulai kesal,
+        Bukan tidak mendasar aku bicara seperti itu karena memang aku ambil dari barang-barang rongsokan yang ada di tempat daur ulang,
+        “coba aku punya uang untuk beli peralatan yang memadai” ketusku menyalahkan diri sendiri,
+    </string>
+    <string name="action_enam_2">
+        Aku pun segera pergi ke taman kota dan bertemu alia teman sekelasku, aku sudah menyukainya sejak lama tapi aku masih malu dan ragu,
+        “hai rio, sudah selesai tugasmu?” tanyanya,
+        “belum” jawabku,
+        “kan besok harus sudah dibawa, mau lihat punyaku? Nanti aku bantu punyamu” katanya bergegas mengajakku,
+        “emm.. a..alia, aku ingin bicara sesuatu padamu” kataku grogi sambil menggaruk-garuk kepala,
+        “apa?” tanyanya,
+        “aku ingin lihat punyamu” kataku, aku tak sanggup mengatakan perasaan ini padanya, sepertinya alia hanya sedikit tersenyum,
+        Sebenarnya aku ingin dia menjadi pacarku tapi aku masih takut kalau dia akan menolakku dan membuat pertemanan kami putus,
+    </string>
+    <string name="action_enam_3">
+        Kami pun sampai di rumahnya yang begitu asri, ya karena tumbuhan agak mahal harganya keluarga mereka memeiliki ide kreatif untuk membuat replika tumbuhan sendiri pastinya dengan teknologi tumbuhan imitasi itu terlihat lebih indah dengan berbagai spektrum warna,
+    </string>
+    <string name="action_enam_4">
+        “rio?” tanyanya mengejutkanku yang sedang asik menikmati halaman rumahnya,
+        “iya?” kejutku,
+        “ayo masuk” ujarnya begitu lembut,
+    </string>
+    <string name="action_enam_5">
+        Dia pun mengangkat tangannya lalu dia menyentuh smartwachtnya dengan jari jemarinya yang lentik, seekor kucing menghampiri kami,
+        “kucing yang manis” kataku mengelus bulu-bulu kucing yang lembut,
+        “ini robotku” katanya,
+        “robotmu?” tanyaku agak heran,
+        “ya” jawabnya singkat,
+        “bagus sekali, mirip kucing asli” ujarku memujinya, dia hanya tersenyum manis,
+        “terima kasih, tapi itu belum sepenuhnya” lanjutnya lagi sembari menggendong robot kucing itu,
+        Aku hanya terdiam tak tahu maksudnya apa,
+    </string>
+    <string name="action_enam_6">
+        “mau minum?” tanyanya,
+        “terima kasih” kataku sambil tersenyum dan mengambil air di tangan alia,
+        “tunggu ya, aku ke sana dulu, duduk saja dulu” katanya lalu bergegas pergi ke sebuah pintu, kurasa itu kamarnya,
+        “hmm” mataku tertuju pada sebuah gambar entah itu lukisan atau foto di dinding ruang tamu ini aku pun memfotonya untuk kenang kenangan,
+        “ini mirip sebuah peta” gumamku,
+    </string>
+    <string name="action_enam_7">
+        “rio?” lagi-lagi dia mengejutkanku,
+        “alia, gambar apa ini?” tanyaku penasaran,
+        “entahlah, aku juga tidak tahu nenekku yang membawanya ke sini” jawabnya,
+        “ayo-ayo, sebelum hari semakin siang kita selesaikan tugasmu” ujarnya begitu semangat,
+        Aku pun mengiyakannya dan bergegas keluar tapi alia malah pergi ke sebuah pintu lagi, kurasa itu sebuah garasi, dia mengeluarkan sebuah speedbike sebuah sepeda dengan dengan roda yang berteknologi elektromagnetik, sepeda itu bisa melayang di atas jalanan,
+        “kau bisa mengendarai sepeda?” katanya, aku menggelengkan kepala, ya sudahlah ayo naik di belakangku, memalukan sekali aku di boncengi oleh seorang wanita tapi mau bagaimana lagi aku harus melakukannya,
+        Setelah sampai dia benar-benar membantu pekerjaanku hampir 80%, bodohnya aku padahal ini pekerjaanku tapi malah alia yang mengerjakan,
+    </string>
+    <string name="action_enam_8">
+        Besoknya adalah hari besar, pesta robotika namanya dimana setiap orang berhak ikut mengkonteskan robot mereka dan kami sebagai tuan rumah wajib ikut,
+        “hai rio” sapa temanku,
+        “hai ari” balasku,
+        “jadi juga robotmu, bagus juga” katanya,
+        “thank’s,.. emh.. mendekat” kataku agak berbisik, ari mendekatkan kepalanya,
+        “aku dibantu alia” bisikku di telinganya, ari tampaknya menahan tawa setelah kujelaskan,
+        “he.. ba..gus..” katanya masih menahan tawa.
+    </string>
+
+    <string name="writer_action_4">
+        pengarang: Yacinta Artha Prasanti
+    </string>
+    <string name="writer_romance_2">
+         Pengarang: Risti Fauziyah
+    </string>
+    <string name="writer_horor">
+        Pengarang: Diki Wijaya
+    </string>
+
+    <string name="writer_fiction_satu">
+        Pengarang: Yacinta Artha Prasanti
+    </string>
+
+    <string name="writer_action_1">
+        Pengarang: Sisia Satya
+    </string>
+    <string name="writer_fiction_2">
+        Pengarang: Rossy Damar Linlin
+    </string>
+    <string name="writer_fiction_1">
+        pengarang: Vincent
+    </string>
+    <string name="writer_fiction_4">
+        Pengarang: Rizki Ichsan Netsyah
+    </string>
+
+    <string name="writer_fiction_6">
+        Pengarang: Yana
+    </string>
+    <string name="writer_romance_3">
+        Pengarang: Melina
+    </string>
+    <string name="writer_romance_4">
+        Pengarang: Azzahra Intan
+    </string>
+    <string name="writer_horror_4">
+        Pengarang: Rafi Fansuri
+    </string>
+    <string name="writer_horror_7">
+        Pengarang: Nandaffa Eka
+    </string>
+    <string name="writer_horror_6">
+        Pengarang: Miftahul Jannah
+    </string>
+    <string name="writer_horror_9">
+        Pengarang: Xabiru Oshe
+    </string>
+    <string name="title_fiction_1">Negeri Boneka</string>
+    <string name="title_fiction_2">Keju Berbicara</string>
+    <string name="title_fiction_4">Imajiner</string>
+    <string name="title_fiction_3">Peri Kecil</string>
+    <string name="title_fiction_5">Lemari Ajaib</string>
+    <string name="title_fiction_6">Dunia Pisang</string>
+
+    <string name="title_romance_1">12 Tangkai Mawar</string>
+    <string name="title_romance_2">Kisah Cinta Dalam Secangkir Kopi</string>
+    <string name="title_romance_4">Tiga Kata Itu Tidak Cukup, Sayang</string>
+    <string name="title_romance_3">Cintaa...</string>
+    <string name="title_romance_5">Aku, Kau, dan Hujan</string>
+    <string name="title_romance_6">Mengapa Kamu Mencintaiku?</string>
+    <string name="title_romance_7">Kasih Terakhir</string>
+    <string name="todo">home</string>
+    <string name="home">TODO</string>
+</resources>
